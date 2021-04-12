@@ -1,17 +1,17 @@
 ---
-title: Modellierung und Umweltsysteme
+title: Dynamische Systeme in der Geographie
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: "/assets/images/spatial_data_title.jpg"
-  caption: 'Photo: [**NASA/Ames/JPL-Caltech**](https://photojournal.jpl.nasa.gov/jpeg/PIA17446.jpg)'
+  overlay_image: "/assets/images/systemdynamik_title.jpg"
+  caption: 'Bild: [**C. Reudenbach**](https://gis-ma.org/wp-content/uploads/ecopolvensim.jpg)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Visualisierung und Vorhersage räumlicher Daten.
+excerpt: Simulation dynamischer Prozesse
 feature_row_intro:
-- excerpt: Einführungskurs im [Master Studiengang Wirtschaftsgeographie ](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/m-sc-wirtschaftsgeographie/herzlich-willkommen-beim-master-wirtschaftsgeographie){:target="_blank"} an der Philipps Universität Marburg
+- excerpt: Systemdynamik [BSc. Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} an der Philipps Universität Marburg
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -24,18 +24,18 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-Raum-zeitliche Daten und ihre Analyse sowie die raumzeitlich Vorhersage auf diese Daten sind wissenschaftliche Grundelemente der Geographie. Die Analysen bilden die Grundlage für den Erkenntnisgewinn in der Forschung und die resultierenden Medien sind die zentralen  Kommunikationsmittel. Daten und Datenanalyse sowie die Modellierung dieser Daten sind daher  fester Bestandteil des fachlichen Verstehens. Der basale Umgang mit Daten, Vorbereitung, visuelle Exploration, Analyse und Präsentation stellt eine wichtige Kernkompetenz für raumzeiltliche öknonomische und soziale Prozesse dar. 
+Das Verständnis von raum-zeitlichen Prozessen, die Abgrenzung und Modellierung geeigneter Systeme sowie die Simulation spezifischer Systemdynamiken  sind von zunehmnder Bedeutung in der Gesellschaft und Wissenschaft. Die Geographie nimmt hier eine wichtige Rolle als interdisziplinärer Forschungskontext ein. Die resultierenden Analysen bilden die Grundlage für den Erkenntnisgewinn in der Forschung und die resultierenden Medien sind  zentrale  Kommunikationsmittel für Forschung Politik und gesellschaftliche Meinungsfindung. Systemanalyse sowie die Modellierung von Systemen sind daher ein fester Bestandteil des fachlichen Verstehens in der Geographie. 
 
 ## Lernziele
 Am Ende dieses Teilmoduls können Sie
-* grundlegende räumliche Datentypen einordnen und kategorisieren sowie angemessen visualisieren, 
-* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen auf Basis von Geodaten darstellen, beschreiben und erklären,
-* Geodaten für die Lösung spezifischer Probleme auswählen und einsetzen,
-* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen modellieren und reflektieren.
+* grundlegende Systeme identifizieren und ihre Archetypen einordnen und kategorisieren sowie angemessen konzeptualisieren 
+* ausgewählte Faktoren, Funktionen und Prozesse in realen Räumen auf Basis von funktionalen Wirkungen darstellen, beschreiben und erklären
+* Systemdynamische Archetypen für die Lösung spezifischer Probleme auswählen anpassen und einsetzen
+* ausgewählte Szenarien, Funktionen und Prozesse realer Weltausschnitte modellieren simulieren und reflektieren
 
 
 ## Kursmerkmale
-Der Kurs ist primär für Studierende in Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
+Der Kurs ist sowohl für Studierende in Präsenzveranstaltungen gedacht, eignet sich in aber auch zum Selbststudium.
 
 Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb digital statt. 
 
@@ -43,34 +43,40 @@ Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionssc
 
 ## Studien- und Prüfungsleistung
 
-In jedem der drei Blöcke des Kurses ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 2-3 Seiten betragen. Genauere Angaben zu den Projekten erfolgen in den jeweiligen Blöcken. Jeder Bericht wird bewertet und die Note im Kurs ergibt sich als Durchschnitt aus den drei Bewertungen. Die Prüfungsleistung ist individuell zu erbringen.
-
+Es ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 3-5 Seiten betragen. Genauere Angaben zu den Projekten und der Art des Berichts werden in der Veranstaltung mitgeteilt. Der Bericht ist die Prüfungsleistung. Die Prüfungsleistung ist individuell zu erbringen.
 
 
 ## Ablauf
 
-Am 28.04.2020 findet die Online-Auftaktveranstaltung statt. Den Link finden Sie im [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1900529&cmd=infoScreen&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI), in der Ablauf und zum Inhaltgeklärt werden sowie die erste inhaltliche Veranstaltung stattfindet. Dieser Online Kurs behandelt den ersten Block. 
+Am 13.04.2021 findet die Online-Auftaktveranstaltung statt. Der Link wurde ihnen per email zugesendet. In der ersten Sitzung werden Ablauf und Inhalte erläutert sowie die notwendigen technischen Voraussetzungen geklärt. 
 
-* Der Link wird je nach technischer Möglichkeit über Ilias bekanntgegeben. Zur Vorbereitung  der Präsenzzeiten wird in Ilias ein Forum eingerichtet in dem die Fragen, die Berücksichtigung finden sollen, bis jeweils Montag Abend 18:00 Uhr eingestellt werden sollten. 
-* Die Präsenzzeit dient der Beantwortung der Fragen, die zu den Vorlesungsinput den Readern und  den gestellten Übungsaufgaben im Forum gestellt wurden. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen und neuem Input online gestellt
-* Die Rahmenbdingungen für die Projektaufgabe wird bis zum 19.05.2020 eingestellt
-* Abgabe des Projektes: 30.06.2020 (04 Uhr)
+* Der Link wird je nach technischer Möglichkeit über Ilias bekanntgegeben. Zur Vorbereitung  der Präsenzzeiten wird in Ilias ein Forum eingerichtet in dem die Fragen, die Berücksichtigung finden sollen, bis jeweils Montag Abend 18:00 Uhr eingestellt werden müssen.
+* Die Präsenzzeit dient (1) einer kompakten Einführung in die jeweilige Thematik und (2) der Beantwortung der Fragen, die zu den Input-Einheiten in Form von Screencasts, Videos und Readern sowie Übungsaufgaben auftreten. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen online gestellt.
+* Die Rahmenbdingungen für die Projektaufgabe wird bis zum 01.05.2021 eingestellt
+* Abgabe des Projektes: 15.09..2021 (00 Uhr)
 
 ## Kurszeiten und Inhalte
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
-| **Block 1** ||||
-| 1 | 28.05.  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
-| 2 | 05.05.  | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
-| 3 | 12.05.  | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
-| 4 | 19.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
-| 5 | 26.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
+| 1 | 13.04.  | Einführung |  |
+| 2 | 20.04.  | Sitzung 1 | |
+| 3 | 27.04.  | Sitzung 2 | |
+| 4 | 04.05.  | Sitzung 3   |  |
+| 5 | 11.05.  | Sitzung 4   |   |
+| 6 | 18.05.  | Sitzung 5   |   |
+| 7 | 25.05.  | Sitzung 6   |   |
+| 8 | 01.06.  | Sitzung 7   |   |
+| 9 | 08.06.  | Projektphase Sitzung 1   |   |
+| 10 | 15.06.  | Projektphase Sitzung 2   |   |
+| 11 | 22.06.  | Projektphase Sitzung 3   |   |
+| 12 | 29.06.  | Projektphase Sitzung 4   |   |
+| 13 | 06.07.  | Projektphase Sitzung 5   |   |
+| 14 | 13.07.  | Projektphase Sitzung 6   |   |
 
 
-## Team
+## Kursleiter
 
-Block 1 wird von Chris Reudenbach durchgeführt während die Blöcke 2 und 3 von Thomas Brenner geleitet werden. 
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
