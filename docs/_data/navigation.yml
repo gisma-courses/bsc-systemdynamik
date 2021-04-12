@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Kurseinheiten"
+    url: /units.html
+  - title: "FAQ"
+    url: /faq.html
+  - title: "Zu ILIAS"
+    url: https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI
+  - title: "Seitenübersicht"
+    url: /sitemap.html
+    
+    
+docs:
+  - title: Ways out
+    children:
+      - title: "Kurseinheiten"
+        url: /units.html
+      - title: "Zu ILIAS"
+        url: https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI
