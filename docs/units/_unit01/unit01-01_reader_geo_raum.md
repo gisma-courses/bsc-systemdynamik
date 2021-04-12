@@ -1,28 +1,22 @@
 ---
-title: Raum braucht einen Geltungsbereich
+title: Systemdenken in der Geographie
 toc: true
 toc_label: Inhalt
 ---
 
+Die grundlegende Fähigkeit sowohl vernetzt als auch in zeitlichen Dimesnionen und unter Berücksichtigung der räumlichen Gegebenheiten in Modellen zu 
+denkenwird in zahlreichen Kompetenzmodellen und insbesondere in der Geographie implizit und explizit gefordert. Dieses auch systemisches Denken genannte Abstraktionsfähigkeit zeichnet sich durch eine herausfordernde Komplexität aus. Am bekanntesten sind die Wirkungsgraphen die ohne Schwierigkeiten erstellt werden können  und in zahlreichen Studien und Veröffentlichungen zu finden sind.
+Wird ein solcher Syndromgraph jedoch in seine funktionalen Einheiten zerlegt und als Wirkungsgeflecht aufgefasst, ist die Papierdarstellung am Ende ihrer Möglichkeiten und es kommt zwingend Software ins Spiel.
+Tatsächlich gibt es mittleweile ein Vielzahl von Werkzeugen die es Einsteigern und Profis ermöglichen Systemdenken über eine graphische Programmierschnittstelle in ablauffähige Modelle zu überführen. Insbesondere in den vergangenen JAhren sind browserbasierte Produkte von hervorragender Bedienbarkeit und für jede HArd - und Softwareplattform geeignet auf den Markt gekommen. 
 
-Es scheint eine Banalität zu sein: Wenn Sie morgens zur Uni gehen, bewegen Sie sich im Raum. Wenn Sie zu Hause vom Schreibtisch aufstehen und in die Küche gehen, bewegen Sie sich im Raum. Aber auch wenn wir Sie fragen, wo Sie gestern gewesen sind, bewegen Sie sich sehr wahrscheinlich in Gedanken durch den von Ihnen wahrgenommenen Raum. <!--more--> Kurz gesagt: Wir alle leben im Raum, alle unsere Aktivitäten finden in diesem Raum statt und auch unsere Wahrnehmung der Welt ist sehr stark räumlich geprägt und wenn wir es genau betrachten entlang eines Zeitstrahls angeordnet. Es ist daher nicht verwunderlich, dass nicht nur in der Geographie dem Verständnis von räumlich und zeitlich wirksamen Prozessen eine bedeutsame Rolle zukommt.
+Viel anspruchsvoller als die Bedienung dieser Software ist das Erlernen des Systemdenkens selber. 
 
-Raum ist also etwas sehr reales und raumrelevante Probleme müssen daher (all)täglich von jedem gelöst werden. Viele dieser Lösungen sind derart normal, dass Sie sie kaum noch wahrnehmen. So ist z. B.. die Frage, welchen Weg wir mit welchem Fahrzeug wählen, um optimal zur Arbeit, zum Sport oder nach Hause zu gelangen, ein typisches, komplexes Problem, dessen Lösung wir (scheinbar) intuitiv finden. Dass diese Intuition meistens eine andere ist, als die der freundlichen Stimme des Navigationssystems, zeigt nur wie subjektiv diese Lösung sein kann.
-
-Fragestellungen, die räumliche Aspekte beinhalten, werden oft geographische Fragestellungen genannt. Hier ein paar Beispiele:
-
-
-*  Die Planung der räumlichen Verteilung von Infrastruktur ist ein geographisches Problem, das viele Interessen im Raum aufeinander abstimmen muss. *Wo errichte ich für eine Region (eine gewisse Anzahl von Menschen) eine Klinik (Supermarkt, Schwimmbad…)?*
-
-* In der Analyse oder Vorhersage von ökonomischen oder oder soziodemographischen Zusammenhängen werden geographische Fragen bearbeitet. *Welche sozioökonomischen Parameter sind räumlich geclustered? Gibt es einen räumlichen oder zeitlichen Zusammenhang zwischen Strukturschwäche und ungünstiger ökonomischer Entwicklung?*
+Wie überall gilt hier natürlich aller Anfang ist schwer und die Übung macht den  Meister. Die in unserer Zeit immer dringender benötigte und nachgefragte Modellierkompetenz kann durch einen vergleichsweise einfachen Zugang über Wirkungsdiagramme und systemeisches Denken nachhaltig gefördert werden. Insbesonderekomplexe Sachverhalte können so schrittweise erschlossen, abstrahiert und in simulationsfähige Modell übersetzt werden. 
 
 
-*  In der Organisation und Planung von Logistik geht es um geographische Problemlösungen.*Auf welchem Weg erreiche ich als Auslieferungsfahrer am effizientesten meine Kunden?*
+Dieser Kurs vermittelt im ersten Teil die Grundlagen des systemischen Denkens. dies beinhaltet sowohl zentrale 
+Konzepte, Vokabeln als auch grundlegende Elemente der dynamischen Modellierung die sogenannten generischen Strukturen bzw. Archetypen.
 
-
-*  Das Management von Liegenschaften in der Verwaltung (Kataster), in der Landwirtschaft (precision farming) und in der Forstwirtschaft ist eng verknüpft mit vielfältigen geographischen Fragestellungen.
-
-*  Konventionelle und moderne Informationssysteme bieten Lösungen für typische geographische Fragestellungen. *Wie komme ich als Tourist zu meinem Hotel, zum Strand oder zum Kletterfels?*
 
 
 Bereits viele unserer alltäglichen Handlungen sind offenkundig von Problemlösungsstrategien abhängig, die geographische Kompetenzen erfordern. Natürlich sind nicht alle Problemstellungen so anwendungsorientiert, wie die Beispiele vermuten lassen, aber eine Unterscheidung in Grundlagenforschung und angewandte Forschung ist im Hinblick auf die Technologie der Geographischen Informationssysteme in der Regel unbedeutend, da beiden die gleichen informationstechnischen Konzepte zugrunde liegen und lediglich unterschiedlich Ziele angestrebt werden.
@@ -33,9 +27,9 @@ Die Lernziele des ersten Readers sind:
 
 ---
 
-  * Reflexion der alltäglichen Verwendung von Geographischen Informationssystemen (GIS)
-  * Einführung in Begrifflichkeiten und Definitionen
-  * Einführung in die Kommunikationskonzepte von GI in der Geographie
+  * 
+  * 
+  * 
  
 ---
 
