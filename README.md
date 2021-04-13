@@ -1,4 +1,5 @@
-Der [Kursinhalt](https://geomoer.github.io/moer-bsc-systemdynamik/) wird auf Github entwickelt und gehostet [Course Release on Github](https://geomoer.github.io/moer-bsc-systemdynamik/)
+Der Kursinhalt wird auf Github entwickelt und [gehostet](https://geomoer.github.io/moer-bsc-systemdynamik/)/)
+
 
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.
 
