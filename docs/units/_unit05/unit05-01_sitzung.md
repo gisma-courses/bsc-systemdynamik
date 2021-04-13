@@ -6,7 +6,7 @@ toc_label: Inhalt
 
 
 
-In dieser kurzen Einführung beginnen wir mit einem Video von John Sterman der am MIT eine Professur für Management innehat. 
+In dieser kurzen Einführung beginnen wir mit einem Video von John Sterman der am MIT eine Professur für Management innehat und der Chef der Systemdynamics Gruppe ist. Gerne würde ich Ihnen eine ähnliche Performance bieten aber ich denke ich überlasse John Sterman den Vortritt.
 
 <!--more-->
 
