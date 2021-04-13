@@ -1,4 +1,4 @@
-![Course Header Copyright https://photojournal.jpl.nasa.gov](https://github.com/GeoMOER/moer-mhg-rgis/blob/main/docs/assets/images/spatial_data_title_banner.jpg "Image source: https://photojournal.jpl.nasa.gov/jpeg/PIA17446.jpg")
+![Course Header](https://github.com/GeoMOER/moer-bsc-systemdynamik/blob/master/docs/assets/images/sysdyn_title.png "Image source: C.Reudenbach")
 
 
 Der Kursinhalt wird auf Github entwickelt und [gehostet](https://geomoer.github.io/moer-bsc-systemdynamik/).
