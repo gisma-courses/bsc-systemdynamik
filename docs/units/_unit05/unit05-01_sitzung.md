@@ -1,5 +1,5 @@
 ---
-title: "Warum Systemdynamik?"
+title: "Einführung - Warum Systemdynamik?"
 toc: true
 toc_label: Inhalt
 ---
