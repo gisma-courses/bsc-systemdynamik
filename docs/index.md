@@ -20,8 +20,8 @@ feature_row_intro:
 
 
 
-## Allgemeine informationen
-Das Verständnis von raum-zeitlichen Prozessen, die Abgrenzung und Modellierung geeigneter Systeme sowie die Simulation spezifischer Systemdynamiken  sind von zunehmnder Bedeutung in der Gesellschaft und Wissenschaft. Die Geographie nimmt als interdisziplinäres Wissenschaftsfeld hier eine wichtige Rolle ein. Die auf der Grundlage von Modellen durchgeführten Analysen bilden die Grundlage für Erkenntnisgewinn in der Forschung. Die resultierenden Medien und ihre Interpretation sind darüberhinaus zentrale  Kommunikationsmittel in der  Forschung aber auch für Entschidungsträger und gesellschaftliche Meinungsfindung. 
+## Allgemeine Informationen
+Das Verständnis von raum-zeitlichen Prozessen, die Abgrenzung und Modellierung geeigneter Systeme sowie die Simulation spezifischer Systemdynamiken  sind von zunehmender Bedeutung in der Gesellschaft und Wissenschaft. Die Geographie nimmt als interdisziplinäres Wissenschaftsfeld hier eine wichtige Rolle ein. Die auf der Grundlage von Modellen durchgeführten Analysen bilden die Grundlage für Erkenntnisgewinn in der Forschung. Die resultierenden Medien und ihre Interpretation sind darüberhinaus zentrale  Kommunikationsmittel in der  Forschung aber auch für Entscheidungsträger und gesellschaftliche Meinungsbildung. 
 
 
 ## Voraussetzungen
@@ -31,12 +31,12 @@ Das Verständnis von raum-zeitlichen Prozessen, die Abgrenzung und Modellierung 
 
 ## Kursziele
 
-Warum scheitern viel eder Anti-Corona-Maßnahmen? Warum sterben scheinbar plötzlich nicht nur Fichten  sondern auch Buchen und Eichen? Warum greifen Regionalförderungsmaßnahmen nur kurzfristig? Warum gibt es prosperierende Regionen, während andere Regionen stagnieren? Wie können Ressourcenmangement und Umweltschutzmaßnahmen wirksam und nahchaltig entwwickelt und implmentiert werden, ohne durch scheinbar unvorhersehbare Nebeneffekte unwirksam zu werden?
+Warum scheitern viel der Anti-Corona-Maßnahmen? Warum sterben scheinbar plötzlich nicht nur Fichten  sondern auch Buchen und Eichen? Warum greifen Regionalförderungsmaßnahmen nur kurzfristig? Warum gibt es prosperierende Regionen, während andere Regionen stagnieren? Wie können Ressourcenmangement und Umweltschutzmaßnahmen wirksam und nachhaltig entwickelt und implementiert werden, ohne durch scheinbar unvorhersehbare Nebeneffekte unwirksam zu werden?
 
-Die notwendige Geschwindkeit des gesellschaftlichen ökologischen ökonomischen Wandel erzwingt ein immer schnelleres Lernen und Verstehen zum Teil hochkomplexer Zusammenhänge (Systeme). Diese Systeme sind in der Regel vielfach rückgekoppelt, dazu auf unterschiedlichen teilweise sehr langen zeitlichen und räumlichen Skalen und die Reaktionsmechanismen auf die Prozesssteuerung ist meist nicht linear. 
-Das Verständnis solcher Prozesse ist sehr schwierig, gerade weil viele der Konsequenzen der wichtigsten Entscheidungen nicht sichtbar werden. Um komplexe Systeme zu Verstehen muss ein Systemdenken entwickelt werden, das in der LAge ist die raum-zeitliche Komplexität darzustellen und zu quantifizieren. 
+Die notwendige Geschwindigkeit des gesellschaftlichen ökologischen ökonomischen Wandel erzwingt ein immer schnelleres Lernen und Verstehen zum Teil hochkomplexer Zusammenhänge (Systeme). Diese Systeme sind in der Regel vielfach rückgekoppelt, dazu auf unterschiedlichen teilweise sehr langen zeitlichen und räumlichen Skalen und die Reaktionsmechanismen auf die Prozesssteuerung ist meist nicht linear. 
+Das Verständnis solcher Prozesse ist sehr schwierig, gerade weil viele der Konsequenzen der wichtigsten Entscheidungen nicht sichtbar werden. Um komplexe Systeme zu Verstehen muss ein Systemdenken entwickelt werden, das in der Lage ist die raum-zeitliche Komplexität darzustellen und zu quantifizieren. 
 
-Der Kurs führt Sie in die systemdynamische Modellierung ein. Sie lernen, eine natürliche soziale und ökonomische Systemehinsichtlich der Prozesse und Wirkungsgefüge zu visualisieren und in Funktionen abzubilden. Die Systemdynamik-Werkzeuge ermöglichen Modelle von Systemen zu erzeugen deren Simulationen es ermöglichen die Wirkungen und Nebeneffekte von unseren Modellvorstellungenzu untersuchen um so systematisch unser Verständnis für komplexe Zusammenhänge entwickeln zu können. 
+Der Kurs führt Sie in die systemdynamische Modellierung ein. Sie lernen, eine natürliche soziale und ökonomische Systeme hinsichtlich der Prozesse und Wirkungsgefüge zu visualisieren und in Funktionen abzubilden. Die Systemdynamik-Werkzeuge ermöglichen Modelle von Systemen zu erzeugen deren Simulationen es ermöglichen die Wirkungen und Nebeneffekte von unseren Modellvorstellungen zu untersuchen um so systematisch unser Verständnis für komplexe Zusammenhänge entwickeln zu können. 
 
 Der Hauptzweck der Modellierung ist es, unser Verständnis für komplexe Prozesse. Während des Kurses werden Sie verschiedene Simulationsmodelle verwenden, um strategische Themen wie Populationsdynamik, Räuber Beute Beziehungen, Verbreitung von Krankheiten, der ökologischen Nachhaltigkeit und andere Themen zu untersuchen.
 
@@ -70,7 +70,7 @@ Darüberhinaus gibt es unter den Aufgabenstellungen zusätzliche Lektüre. Die d
 ## Modellierungssoftware
 Dieser Kurs verwendet spezifische Modellierungssoftware. Es gibt zahlreiche hervorragende Softwarepakete für die Simulation von Systemdynamik. Die meisten sind sehr empfehlenswert. Einen guten Einstieg finden Sie [unter systemdynamics.org](https://systemdynamics.org/tools/) 
 
-Wir verwenden im Kurs [insight maker](https://insightmaker.com/) von [Gene Bellinger](https://en.wikipedia.org/wiki/Gene_Bellinger). Insight maker ist ein browsergestütztes Werkzeug. In Zeiten der digitalen Präsenzlehre und der unterschiedlichsten Haredware ist die Nutzung eines plattform und Hardwareunabhägigen Werkzeugs quasi zwingend. Sie benötigen für die Nutzung einen [Account](https://insightmaker.com/user/register?destination=main) den Sie mit einer beliebigen eEmail-Adresse einrichten können.  
+Wir verwenden im Kurs [insight maker](https://insightmaker.com/) von [Gene Bellinger](https://en.wikipedia.org/wiki/Gene_Bellinger). Insight maker ist ein browsergestütztes Werkzeug. In Zeiten der digitalen Präsenzlehre und der unterschiedlichsten Hardware ist die Nutzung eines Plattform und Hardwareunabhägigen Werkzeugs quasi zwingend. Sie benötigen für die Nutzung einen [Account](https://insightmaker.com/user/register?destination=main) den Sie mit einer beliebigen E-Mail-Adresse einrichten können.  
 
 
 ## Zeitaufwand und Ablauf
@@ -78,14 +78,14 @@ Am 13.04.2021 findet die Online-Auftaktveranstaltung statt. Der Link wurde per E
 In einer durchschnittlichen Arbeitswoche sollten Sie 7-10 Stunden für den Kurs aufwenden. Die Aufteilung ist etwa wie folgt:
 
 * Digitale Präsenz: 2 Stunden pro Woche
-  * Der Kurs findet 1 mal pro Woche als 90 minütige Sitzung statt - Anwesenheit ist erforderlich für das Verständnis
+  * Der Kurs findet 1 mal pro Woche als 90 minutiöse Sitzung statt - Anwesenheit ist erforderlich für das Verständnis
   * Optional ein Tutorium zur Wiederholung bei dem Fragen beantwortetet werden - freiwillige Teilnahme
 * Studium außerhalb der Präsenz: 5-8 Stunden pro Woche
   * Wöchentliche Lektüre zur Vorbereitung auf die Präsenz
-  * Wöchentliche praktische Modellierung Reflexion mit dem OnlineWerkzeug
+  * Wöchentliche praktische Modellierung Reflexion mit dem Online-Werkzeug
   * Wöchentliche Bearbeitung von Aufgaben
   
-* Zur Vorbereitung  der Präsenzzeiten, des Tuoriums wird in Ilias ein Forum für Fragen eingerichtet. Diese werden bis jeweils Montag Abend 18:00 Uhr berücksichtigt.
+* Zur Vorbereitung  der Präsenzzeiten, des Tutoriums wird in Ilias ein Forum für Fragen eingerichtet. Diese werden bis jeweils Montag Abend 18:00 Uhr berücksichtigt.
 * Die Präsenzzeit dient (1) einer kompakten Einführung in die jeweilige Thematik und (2) der Diskussion der Fragen, die zu den Input-Einheiten in Form von Screencasts, Videos und Readern sowie Übungsaufgaben auftreten. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen online gestellt.
 * Als Studienleistung sind insgesamt vier Aufgaben zu bearbeiten
 * Als Prüfungsleistung ist eine kleine Studie als Projekt durchzuführen. Der Projektbericht wird auf der Grundlage des erstellten Modells bewertet. Der Umfang des Berichtes soll 3-5 Seiten betragen. Genauere Angaben zu den Projekten, der Art des Berichts und den Bewertungskriterien werden zum 01.05.2021 verfügbar gemacht. Die Prüfungsleistung ist individuell zu erbringen.
@@ -119,3 +119,4 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 7-10 Stunden für den Kurs 
   {% include author-profile.html %}
  <br /> 
 {% endfor %}
+
