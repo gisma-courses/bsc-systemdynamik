@@ -62,8 +62,9 @@ Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionssc
 Grundlagenliteratur:
 * Meadows, D. H., & In Wright, D. (2008). Thinking in systems: A primer. [Download](https://knihovna.impactacademy.cz/wp-content/uploads/2020/03/Thinking-in-Systems_Meadows.pdf)
 * Arndt, H. Systemisches Denken im Wirtschaftsunterricht, FAU University Press, ISBN: 978-3-96147-013-6 [Download](https://opus4.kobv.de/opus4-fau/files/8006/HolgerArndt_Systemisches+Denken_OPUS.pdf)
-Bossel H.,(2004), Systeme, Dynamik, Simulation: Modellbildung, Analyse und Simulation komplexer Systeme [Download 1989 Ausgabe](https://de1lib.org/dl/2157534/0f950f)
-Es gibt zusätzliche Lektüre. Die zugewiesenen Artikel und Fallstudien werden im Abschnitt "Lektüre" aufgeführt. Zusätzliche Lektüre wird in unregelmäßigen Abständen zur Verfügung gestellt.
+* Bossel H.,(2004), Systeme, Dynamik, Simulation: Modellbildung, Analyse und Simulation komplexer Systeme [Download 1989 Ausgabe](https://de1lib.org/dl/2157534/0f950f).
+
+Darüberhinaus gibt es unter den Aufgabenstellungen zusätzliche Lektüre. Die dort verlinkten Artikel, Tutorials und Studien sind online verfügbar (students account) oder auf Ilias eingestellt.
 
 
 ## Modellierungssoftware
