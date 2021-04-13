@@ -14,7 +14,7 @@ In dieser kurzen Einführung beginnen wir mit einem Video von John Sterman der a
 
 {% include video id="AnTwZVviXyY" provider="youtube" %}
 
-
+Für den Fall dass Sie die Vorlesung nicht gut verstehen können sie das [Transkript](https://ocw.mit.edu/courses/sloan-school-of-management/15-871-introduction-to-system-dynamics-fall-2013/instructor-insights/introduction-to-system-dynamics-overview/AnTwZVviXyY.pdf) herunterladen.
 
 ## Was ist zu tun?
 
