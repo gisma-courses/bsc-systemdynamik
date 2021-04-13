@@ -188,7 +188,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "Sitzungen"
+      category: "Aufgaben"
       tags: "Unit|05"
       layout: single
       sidebar:

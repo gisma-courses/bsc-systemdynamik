@@ -22,3 +22,5 @@ Wenn Sie die Bearbeitung der Aufgabe abgeschlossen haben, speichern Sie das Doku
 
 ## Prüfungsleistung
 Am Ende des Moduls findet eine Mittelung der Bewertungen aller drei Abgaben statt. Die Prüfungsleistung ist individuell zu erbringen.
+
+
