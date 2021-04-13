@@ -39,7 +39,7 @@ Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materi
 Der [Kursbereich der [Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=2370191&baseClass=ilrepositorygui) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Foren in Ilias
-Foren nutzten Sie wie schon angesprochen für die Vorbereitung der Veranstaltung. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich. Ihre Fragen werden primär in den Veranstaltungen beantwortet. Bei generellen Problemen werden wir Antworten auch auf der [FAQ-Seite]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %})) online.
+Foren nutzten Sie wie schon angesprochen für die Vorbereitung der Veranstaltung. Wenn Sie eine Frage an uns richten möchten, nutzen Sie bitte das Forum im Kursbereich. Ihre Fragen werden primär in den Veranstaltungen beantwortet. Bei generellen Problemen werden wir Antworten auch auf der [FAQ-Seite]({{ site.baseurl }}{% link _unit06/unit00-04_faq.md %})) online.
 
 Bitte bedenken Sie, dass wir Zusatzmaterial nur dann erstellen können, wenn wir wissen, wo die Probleme liegen. Nutzen Sie das Forum also unbedingt um Fragen zu stellen, denn es ist wahrscheinlich, dass andere Kommilitonen sich ähnliches wie Sie selbst fragen und es ist daher sinnvoll und sehr viel effizienter für alle transparent im Forum zu kommunizieren.
 

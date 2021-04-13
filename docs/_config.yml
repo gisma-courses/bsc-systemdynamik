@@ -113,6 +113,9 @@ collections:
   unit05:
     output: true
     permalink: /:collection/:title.html
+  unit06:
+    output: true
+    permalink: /:collection/:title.html    
 worksheets:
     output: true
     permalink: /:collection/:title.html
@@ -194,7 +197,19 @@ defaults:
       sidebar:
         nav: "course_unit" 
       toc: true
-      toc_label: On this page          
+      toc_label: On this page        
+  # unit06
+  - scope:
+      path: ""
+      type: unit06
+    values:
+      category: "FAQ"
+      tags: "Unit|06"
+      layout: single
+      sidebar:
+        nav: "course_unit" 
+      toc: true
+      toc_label: On this page            
   # pages
   - scope:
       path: "_pages"
