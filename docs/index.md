@@ -101,9 +101,9 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 7-10 Stunden für den Kurs 
 | 3 | 27.04.  | Grundlagen Sitzung 2 | Zustände und Flüße und Wirkungen als Repräsentation von Systemen|
 | 4 | 04.05.  | Grundlagen Sitzung 3   | Graphische Integration und Kopplungen  |
 | 5 | 11.05.  | Grundlagen Sitzung 4   | Generische Strukturen und Archetypen,   |
-| 6 | 18.05.  | Grundlagen Sitzung 5   | Einfache Systeme |
-| 7 | 25.05.  | Grundlagen Sitzung 6   |  Räuber Beute |
-| 8 | 01.06.  | Grundlagen Sitzung 7   |  Epidimie |
+| 6 | 18.05.  | Grundlagen Sitzung 5   | Einfache Systeme, Räuber-Beute |
+| 7 | 25.05.  | Grundlagen Sitzung 6   |  Epidimie |
+| 8 | 01.06.  | Ausfalltermin Projektseminar   |   |
 | 9 | 08.06.  | Grundlagen Sitzung 8   |  Nachhaltige Ressourcennutzung  |
 | 10 | 15.06.  | Projektphase Sitzung 10   | Einführung in die Projektarbeit  |
 | 11 | 22.06.  | Projektphase Sitzung 11   | 5 Minuten Bericht Stand Projektarbeit |
