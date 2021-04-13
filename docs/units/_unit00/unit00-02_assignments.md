@@ -3,10 +3,9 @@ title: Studien- & Prüfungsleistung
 toc: true
 ---
 
-## Prüfungsleistung
-
 Die Aufgaben in den Kurseinheiten auf dieser Webseite bilden die Grundlage für IhreProjektarbeit die ein Drittel Ihrer Prüfungsleistungausmacht. Um eine Bewertung zu erhalten, müssen die Projektarbeit auf der [Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1884284&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI) innerhalb des dort angegeben Zeitraums und den [formalen Anforderungen](#formale-anforderungen) entsprechen abgeben werden. Die Prüfungsleistung ist individuell zu erbringen.
 
+<!--more-->
 
 
 ### <a name="formale-anforderungen"></a>Formale Anforderungen

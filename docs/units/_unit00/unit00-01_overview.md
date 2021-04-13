@@ -5,6 +5,8 @@ toc: true
 
 Wir bieten im ersten Block wöchentlich einen Input mit einer neuen Kurseinheit. Diese beginnen wir mit Videos, Live-Streaming oder Webkonferenz, Texten oder anderen Materialien. Nach dem Input werden die Übungsaufgaben vorgestellt die sinnvollerweise zur erfolgreichen Durchführung des  Projekts bearbeitet werden sollten. Während des Bearbeitungszeitraums für die Aufgabe gibt es ein Fragentutorium. Alle Fragen die bis zum folgenden Sonntag gestellt wurden werden in einem Screencast bzw. online besprochen. 
 
+<!--more-->
+
 ## Web-basierte Lernumgebung
 
 Ihre prioritäre Lernumgebung ist diese öffentlich zugängliche Homepage, die wir auf GitHub erstellen. Hier finden Sie Lernmaterialien, Aufgaben und Hilfestellungen.
