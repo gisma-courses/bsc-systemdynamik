@@ -18,9 +18,9 @@ In dieser kurzen Einführung beginnen wir mit einem Video von John Sterman der a
 
 ## Was ist zu tun?
 
-Bitte lesen Sie [Modelling the carrying capacity and coexistence of pika and livestock](https://doi.org/10.1016/j.ecolmodel.2005.03.003). 
+Um einen Einblick in die wissenschaftlich fokussierte Modellierung von komplexen dynamischen Systeme zu bekommen lesen Sie bitte [Modelling the carrying capacity and coexistence of pika and livestock](https://doi.org/10.1016/j.ecolmodel.2005.03.003). 
 
-Es geht nicht um das durcharbeiten der Gleichungen sondern um das Grundverständnis der Fragestellung und des modellierten Systems.
+Es geht nicht um das vollständige Bearbeiten des Artikels sondern vielmehr um das Grundverständnis der zugrundeliegenden Fragestellung und des Ansatzes wie dieses System modelliert wird. Insbesondere ist auch die Frage von Interesse für wie valide halten sie die Resultate?
 {: .notice--info}
 
 
@@ -29,3 +29,5 @@ Für eine kurze Feedbackrunde in der kommenden Veranstaltung beantworten Sie bit
 * Gab es in Bezug auf die dynamische Modellierung eines Systems einen Aha-Effekt?
 * Was erschien ihnen am unverständlichesten?
 
+
+Um einen erste Beschäftigung  mit der Online Software insight zu ermöglichen legen Sie sich bitte ein [Konto](https://insightmaker.com/user/register?destination=main) an. Gerne können sie auch ein wenig stöbern.
