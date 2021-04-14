@@ -74,6 +74,7 @@ title_separator: "|"
 excerpt_separator: <!--more-->
 locale                   : "de-DE"
 
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -228,6 +229,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia
+  
 
 
 # Exclude from processing.
