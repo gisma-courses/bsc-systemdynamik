@@ -6,7 +6,7 @@ md_files = xfun::sans_ext(basename(files[grep("/units/", files)]))
 outpath = paste0(getwd(),"/docs/assets/pdf/")
 url = paste0("https://geomoer.github.io/",repo,"/")
 localURL = paste0("http://127.0.0.1:4000/",repo,"/")
-pan_arguments=' -f markdown-raw_tex -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs '
+pan_arguments=' -f markdown-raw_tex -V -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs '
 
 res= lapply(md_files, function(x){
   system(paste0("pandoc ",url,strsplit(strsplit(strsplit(x = x,split = "_")[[1]][1],"/")[[1]][1],"-")[[1]][1],"/",xfun::sans_ext(basename(x)),".html ",pan_arguments, "-o ",outpath, xfun::sans_ext(basename(x)),".pdf ","--pdf-engine=pdflatex"),wait = TRUE)
