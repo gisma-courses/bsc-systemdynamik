@@ -6,7 +6,7 @@ main:
     url: /unit00/unit00-04_faq.html
   - title: "Zu ILIAS"
     url: https://ilias.uni-marburg.de/ilias.php?baseClass=ilRepositoryGUI&amp;client_id=UNIMR
-  - title: "Zur OER"
+  - title: "Zu OER"
     url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
   - title: "Seitenübersicht"
     url: /sitemap.html
@@ -21,5 +21,6 @@ docs:
         url: /units.html
       - title: "Zu ILIAS"
         url: https://ilias.uni-marburg.de/ilias.php?baseClass=ilRepositoryGUI&amp;client_id=UNIMR
-      - title: "Zum OER"
-        url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+      - title: "Zu OER"
+        url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR      
+
