@@ -121,6 +121,10 @@ worksheets:
     output: true
     permalink: /:collection/:title.html
 
+
+## nav: "units"           provides  menu tree
+## nav: "course_unit"     provides  single menu with go back entry menu treee
+
 # Default settings
 defaults:
   # examples
@@ -154,7 +158,7 @@ defaults:
       tags: "Unit 01"
       layout: single
       sidebar:
-        nav: "course_unit" 
+        nav: "units" 
       toc: true
       toc_label: On this page      
   # unit02
@@ -166,7 +170,7 @@ defaults:
       tags: "Unit 02"
       layout: single
       sidebar:
-        nav: "course_unit" 
+        nav: "units" 
   # unit03
   - scope:
       path: ""
@@ -176,7 +180,7 @@ defaults:
       tags: "Unit|03"
       layout: single
       sidebar:
-        nav: "course_unit" 
+        nav: "units" 
   # unit04
   - scope:
       path: ""
@@ -186,7 +190,7 @@ defaults:
       tags: "Unit|04"
       layout: single
       sidebar:
-        nav: "course_unit"         
+        nav: "units"         
   # unit05
   - scope:
       path: ""
@@ -196,7 +200,7 @@ defaults:
       tags: "Unit|05"
       layout: single
       sidebar:
-        nav: "course_unit" 
+        nav: "units" 
       toc: true
       toc_label: On this page        
   # unit06
@@ -208,7 +212,7 @@ defaults:
       tags: "Unit|06"
       layout: single
       sidebar:
-        nav: "course_unit" 
+        nav: "units" 
       toc: true
       toc_label: On this page            
   # pages

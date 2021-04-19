@@ -2,10 +2,10 @@
 title: Dynamische Systeme in der Geographie
 toc: true
 layout: splash
-date: '2018-02-06 13:00:00 +0100'
+date: '2021-04-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
-  overlay_filter: 0.6
+  overlay_filter: 0.5
   overlay_image: "/assets/images/systemdynamik_title.jpg"
   caption: 'Bild: [**C. Reudenbach**](https://gis-ma.org/wp-content/uploads/ecopolvensim.jpg)'
   cta_label: Zum Kursinhalt
