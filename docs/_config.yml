@@ -16,6 +16,24 @@
 # url and baseurl settings have to be used.
 
 
+# Alternative Menu is implemented like following
+## add the following user defined files
+## _sass/minimal_mistakes.scss
+## _sass/minimal_mistakes/_variables.scss
+# add in  _includes/sidbar_units:
+##  <li>
+##      <span class="nav__sub-title">
+##          <a href="{{ site.baseurl }}/units.html" class="">{{ site.data.ui-text[site.locale].back_to_units | default: "Back to course units" }}</a>
+##    </span>
+##      </li>
+# _data/ui-text.yml
+## add for EN & DE  least line 52 / 519
+##  back_to_units              : "Zurück zu Kurseinheiten"
+##  back_to_units              : "Back to course units"
+# in _config.yml
+## nav: "units"           provides  menu tree
+## nav: "course_unit"     provides  single menu with go back entry menu treee
+
 ##### URL #####################################################################
 
 
@@ -121,9 +139,6 @@ worksheets:
     output: true
     permalink: /:collection/:title.html
 
-
-## nav: "units"           provides  menu tree
-## nav: "course_unit"     provides  single menu with go back entry menu treee
 
 # Default settings
 defaults:
