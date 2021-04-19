@@ -80,7 +80,7 @@ markdown: kramdown
 # theme: minima
 remote_theme: "GeoMOER/moer-jekyll-theme"
 
-minimal_mistakes_skin    : "air" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 auto_ids: true
 
