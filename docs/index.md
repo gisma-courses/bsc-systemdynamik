@@ -10,7 +10,7 @@ header:
   caption: 'Bild: [**C. Reudenbach**](https://gis-ma.org/wp-content/uploads/ecopolvensim.jpg)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-  cta_url: "/downloads.html"
+  
 excerpt: Simulation dynamischer Prozesse
 feature_row_intro:
 - excerpt: Systemdynamik [BSc. Geographie](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"} an der Philipps Universität Marburg

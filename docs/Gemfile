@@ -34,7 +34,6 @@ group 'jekyll-plugins' do
   gem "rack", ">= 2.1.4"
   gem "activesupport", ">= 4.1.11"
   gem "kramdown", ">= 2.3.1"
-  gem "pandoc-ruby"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
