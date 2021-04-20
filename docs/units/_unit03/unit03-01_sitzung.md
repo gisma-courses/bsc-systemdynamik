@@ -2,16 +2,23 @@
 title: " Input Modellierung"
 toc: true
 toc_label: Inhalt
+
 ---
 
-
-
-In dieser Einführung finden Begriffsklärungen und Reflexionseinheiten zu den Begriffen System Modellierung und Simulation statt. 
-
+In dieser Einführungssitzung beginnen wir mit einem Brainstorming, bei dem es um Modelle geht. Danach definieren wir die drei Grundbegriffe: System, Modell, Simulation und beenden die heutige Lektion mit einem Modellbesipiel einer Badewanne.
 <!--more-->
 
-## Folien
+### Dinge, die Sie für diese Sitzung benötigen
 
+ [Arbeitsblatt_01_1]({{ site.baseurl }}{% link _unit03/unit03-02_assignments.md %})) Badewanne
+ [Arbeitsblatt_01_2]({{ site.baseurl }}{% link _unit03/unit03-03_assignments.md %})) Systeme und Modelle
+
+## Was Sie aus dieser Lektion mitnehmen können
+Am Ende dieser Lektion sollten Sie in der Lage die Begriffe System, Modell und Simulationeinzuordnen. Die Bedeutung des Modellzwecks und von Systemgrenzen zu verstehen und Modelle nach verschiedenen Typen unterscheiden zu können.
+
+
+
+## Folien
 
 {% include media url="/assets/slides/slides_LE_1.html" %}
 [Full-screen version of the map]({{ site.baseurl }}/assets/slides/slides_LE_1.html){:target="_blank"}
