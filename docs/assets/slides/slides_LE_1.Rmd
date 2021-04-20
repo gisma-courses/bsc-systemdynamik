@@ -1,0 +1,296 @@
+---
+title: "Systemdynamik  "
+subtitle: "Konzepte der Systemdynamik - Systemdynamik-Werkzeuge"
+institute: "Universität Marburg "
+author: "Chris Reudenbach"
+date: "2021/04/14 (updated: `r Sys.Date()`)"
+
+output:
+  xaringan::moon_reader:
+    css: "robot"
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      
+
+
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+### Warum modellieren wir ?
+
+
+*„Der menschliche Geist ist unfähig anders als in Modellen zu denken.“* <sup>1</sup> 
+
+
+* Modelle  sind  Hilfsmittel im Umgang mit und zur Interpretation der einer  überkomplexen  Realität zwingend
+
+* Die Wahrnehmung und Interpretation der „realen Welt“, die Entwicklung geeigneter Strategien für den praxistauglichen Umgang (=Abstraktion) mit ihr findet durch Modellbildung statt.
+
+.footnote[
+[1] Christian Wissel: Theoretische Ökologie. Berlin: Springer 1989
+]
+---
+
+### Modell was ist das …?
+
+Bitte Disktuieren Sie in den nächsten 10 Minuten in den Breakoutrooms die folgenden drei Fragen:
+
+* Welche Modelle kennen Sie? 
+* Warum sollte Modellierung interessant oder nützlich sein?
+* Was erwarte ich von Modellen?
+
+.footnote[
+Die Ergebnisse sammeln  wir auf [trello](https://trello.com/b/dd1CPBTC/systemdynamik)
+]
+
+---
+
+### Warum gibt es wissenschaftliche Modellierung?
+
+* Grundlagenforschung und angewandte Forschung benötigt Modelle zum 
+* Erkenntnisgewinn
+* Weltverstehen
+* vertieftes  Prozessverständnis
+* zur Hypothesenprüfung
+* Prognosen ...
+
+Experimente am realen System sind häufig:
+* unmöglich
+* unbezahlbar
+* wenig sinnvoll weil irreversibel ...
+
+---
+
+### Systeme
+Anordnung von Komponenten und Beziehungen
+---
+
+### Modelle
+Abstraktionen von (real existierenden) Systemen
+
+Modelle sind *nicht* universell sondern für einen spezifischen Zweck
+
+---
+
+### Simulationen
+
+Nachahmung des Verhaltens des realen Systems
+
+
+Literatur:<sup>1,2,3</sup> 
+
+.footnote[
+[1] H. Bossel: Systeme, Dynamik, Simulation – Modellbildung, Analyse und Simulation komplexer Systeme. Books on Demand , Norderstedt/Germany , 2004
+[2] Monsef, Y.:  Modelling and Simulation of Complex Systems . Concepts , Methods and Tools , Society for Computer Simulation International . 1997
+[3] Günther Ossimitz: Online -Skriptum zur Vorlesung Einführung in die Systemwissenchaften Uni Graz [Ossimitzskript](http://wwwu.uni-klu.ac.at/~gossimit/lv/usw00/skr/start.htm)_  Zugriff: 13 .4 .2009
+]
+---
+
+### „Mache die Dinge so einfach wie möglich - aber nicht einfacher“ (nach Albert Einstein)
+
+.pull-left[
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt0.png" width=200px />
+]
+
+.pull-right[
+Die Komplexität der realen Welt erzwingt Vereinfach also **Abstraktion**
+
+Durch eine **definierte Abstraktion** wird ein vereinfachtes **Modell** eines realen Systemausschnitts erzeugt
+
+Das dynamische System wird durch eine strukturierte Menge von Merkmalen, die in einer funktionalen Beziehung stehen, dargestellt
+]
+
+
+
+**Dieser Vorgang  wird als Modellbildung bezeichnet**
+
+---
+
+### Modelle sind immer beschränkt gültige Abbildungen eines subjektiv wahrgenommenen Systems
+
+ *"Die Australier führten das Kaninchen auf dem Kontinent ein und stellten fest, dass diese Kaninchen bald überall waren und die gesamte Nahrung fraßen, die für die einheimischen Arten zum Überleben notwendig war. Da die Kaninchen keinen natürlichen Feind hatten.*
+
+ *Daraufhin führten die Australier den Fuchs auf dem Kontinent ein (Füchse ernähren sich von Kaninchen - das Vorbild).*
+
+ *Um zu sehen, dass die Füchse bald überall zu finden waren. Aber sie ließen die Kaninchen in Ruhe. Denn sie fanden die einheimischen Beuteltiere (Beutelsäuger) viel leichter zu jagen"*
+
+.footnote[
+Cellier, F.E. (1991),  Continuous System Modeling, Springer-Verlag, New York
+]
+---
+
+### Modellvalidität
+
+* Subjektivität der Abstraktionsleistung
+* Komplexität und Nicht-Linearität
+* Auch l ogisch und fachlich valide Modell e  sind nicht *wahr*
+
+**=> Modellgültigkeit  en werden über Sensitivitätsanalysen  bestimmt**
+
+
+*Ob ein Modell Wirklichkeitsausschnitte korrekt abbildet, läßt sich nicht beweisen
+
+*Jedoch  lässt sich die Gültigkeit  für  einen  definierten Modellzweck  nachweisen
+
+---
+
+### Der Begriff der Modellgültigkeit
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt1.png" width=950px />
+
+.footnote[
+H. Bossel: Systeme, Dynamik, Simulation – Modellbildung, Analyse und Simulation komplexer Systeme. Books on Demand, Norderstedt/Germany, 2004
+]
+---
+
+
+### Modelltypen - Deskriptive Modelle
+
+<img src="img/LN-ES-01-Systems-Models5.jpg" width=220px />
+<img src="img/LN-ES-01-Systems-Models4.jpg" width=250px />
+<img src="img/LN-ES-01-Systems-Models6.jpg" width=250px />
+
+.footnote[
+_[Environmental Informatics Marburg \[CC\-BY\-NC\-SA\] via flickr\.com](https://www.flickr.com/photos/environmentalinformatics-marburg)_ \, __adapted from__  _[Bossel \(2004\)](https://www.zotero.org/envin_umr/items/VA9SBS9Q)_
+]
+---
+
+### Model Typen Funktionale Modelle
+
+<img src="img/LN-ES-01-Systems-Models7.jpg" width=220px />
+<img src="img/LN-ES-01-Systems-Models8.jpg" width=250px />
+<img src="img/LN-ES-01-Systems-Models9.jpg" width=250px />
+
+
+.footnote[
+_[Environmental Informatics Marburg \[CC\-BY\-NC\-SA\] via flickr\.com](https://www.flickr.com/photos/environmentalinformatics-marburg)_ \, __adapted from__  _[Bossel \(2004\)](https://www.zotero.org/envin_umr/items/VA9SBS9Q)_
+]
+---
+
+### Vorraussetzung: Fach- und Methodenwissen
+.pull-left[
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt3.png" width=400px /><sup>1</sup> 
+]
+
+.pull-right[
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt2.png" width=375px />]<sup>2</sup>
+
+
+.footnote[
+[1] [Zwischenbericht](http://www.uni-saarland.de/fak5/physgeo/naehrstoffbilanz/Zwischenbericht_Internet.pdf)
+[2]  W. Mauser: Zwischenbericht GLOWA – Danube Integrative Techniken, Szenarien und Strategien zur Zukunft des Wassers im Einzugsgebiet der Oberen Donau. 2001
+]
+
+---
+
+### Ganz Praktisch - Wie geht’s ?
+
+1. Das reale System wird beobachtet und analysiert. Definition der Problemstellung und des   _Modellzwecks_ 
+2. Im Rahmen der Systemabgrenzung wird das Konzept des Systems entwickelt als   _Wortmodell_   beschrieben.
+3. Auf Grundlage des Wortmodell werden die Wirkungsbeziehungen identifiziert und in einem   _Wirkungsgraphen_   abgebildet. Analyse der Dimensionen und Quantifizierung der Wirkungsbeziehungen.
+4. Je nach verwendeter Software Entwurf und Implementierung des Simulationsdiagramms (Flussdiagramm).
+5. Modelltest mit den gewählten Parametern.
+
+---
+
+### Als Beispiel  - Problem errkennen
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt4.png" width=500px />
+
+---
+
+### Das Abstraktionshandwerk
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt5.png" width=500px />
+
+---
+
+### Übersetzung in die technische Domäne
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt6.png" width=500px />
+
+---
+
+### Ein dynamisches „Primitivmodell“
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt7.png" width=500px />
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt8.png" width=500px />
+
+<img src="img/Kopie von Einfuhrung in die Modellbildungppt9.png" width=484px />
+
+---
+### Zusammenfassung
+
+* Modellbildung und Simulation ist eine experimentelle Methode  , die der Analyse realer Systeme dient
+* Modellkonzepte können unterschieden werden in in Konzept- , Physikalische und Mathematische Modelle.
+* Modellbildung und Simulation dient (wichtigste Ziele)
+  * Theoriebildung (Verständnis)
+  * Prognose
+  * Erkenntnis
+  * Unterhaltung
+* Anforderungen an Modellbildung und Simulationsmethoden:
+  * adäquate Modellbeschreibung
+  * korrekte und effiziente Ausführung
+  * komfortable Durchführung von Simulationsexperimenten
+
+---
+---
+
+class: center, middle
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yihui.org/knitr/), and [R Markdown](https://rmarkdown.rstudio.com).
+
+
+
+### Zurück zur Realität
+
+Realität - Wirklichkeit - Umweltwahrnehmung stellen in erster Linie ein kognitives Problem des Wahrnehmenden  dar
+
+Es gibt zahlreiche erkenntnistheoretische Ansätze die  grundsätzlich in  zwei  verschiedene  Paradigmen  zur Abstraktion eingeteilt werden können
+
+.footnote[
+* Simon, F. B. (2006): Einführung in Systemtheorie und Konstruktivismus Heidelberg (Carl-Auer Verlag) [3.Aufl. 2008]
+* Hans Günther Ruß: Wissenschaftstheorie, Erkenntnistheorie und die Suche nach Wahrheit. Eine Einführung, Kohlhammer Urban, Stuttgart 2004.
+* Helmut Seiffert: Einführung in die Wissenschaftstheorie 1: Sprachanalyse, Deduktion, Induktion in Natur- und Sozialwissenschaften. Beck 2003
+* Helmut Seiffert: Einführung in die Wissenschaftstheorie 3: Handlungstheorie, Modallogik, Ethik, Systemtheorie. Beck 2001
+]
+---
+
+### Erkenntnistheorethische Paradigmen
+
+### Reduktionistisch
+
+Damit Wirklichkeit interpretierbar und abbildbar wird, muss sie (zumindest teilweise) abstrahierbar und abgrenzbarsein. Die Abgrenzbarkeit der Welt in Systeme ermöglicht erst deren Verständnis (Newton‘sches Weltbild)
+
+### Holistisch
+
+Eine Abgrenzbarkeit einzelner Weltausschnitte in Systeme der Welt ist nicht möglich, wünschenswert oder sinnvoll.  Interessierende Systeme müssen als ganzheitliche Phänomene betrachtet werden <sup>1</sup> 
+
+.footnote[ [1] Alexander Zick Das schamanische Weltbild als archaische Form des Konzepts "ökologische Ökonomie"  [Download](http://fbwirt.fh-hannover.de/veroeff/apapier/arb79.pdf)  Zugriff: 13.9.2007]
+---
+### Methoden der Abstraktion
+
+„[...] Our only hope lies therefore in a true induction“ (<sup>1</sup> )
+
+*Induktiv* aufgrund von Messdaten zur Identifikation und Validierung Beobachtungen, Messungen, Annahmen, statistische Verfahren (Data Mining), Lernverfahren der KI...
+
+„Induction does simply not exist [...]“ <sup>2,3</sup>  
+
+*Deduktiv* aufgrund von Kenntnissen und Einsicht über den Prozess (Gesetze , Prinzipien, Grundlagenwissen, Lehrmeinungen, Strukturwissen)
+
+.footnote[
+[1] Francis Bacon(1625): First Book of Aphorisms zit. n.[Bacon](http://www.fordham.edu/halsall/mod/bacon-aphor.html)  P. XIV. Zugriff 2.3.2007
+[2] Karl Popper: Logik der Forschung (1934)
+[3] Karl Popper: The Logic of Scientific Discovery (1959)
+]
+---
