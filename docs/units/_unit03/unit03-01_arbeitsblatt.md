@@ -10,8 +10,8 @@ In dieser Einführungssitzung beginnen wir mit einem Brainstorming, bei dem es u
 
 ### Dinge, die Sie für diese Sitzung benötigen
 
- [Arbeitsblatt_01_1]({{ site.baseurl }}{% link _unit03/unit03-02_assignments.md %})) Badewanne
- [Arbeitsblatt_01_2]({{ site.baseurl }}{% link _unit03/unit03-03_assignments.md %})) Systeme und Modelle
+ 
+ [Arbeitsblatt_01_1]({{ site.baseurl }}{% link _unit03/unit03-01_arbeitsblatt.md %}))Badewanne
 
 ## Was Sie aus dieser Lektion mitnehmen können
 Am Ende dieser Lektion sollten Sie in der Lage die Begriffe System, Modell und Simulationeinzuordnen. Die Bedeutung des Modellzwecks und von Systemgrenzen zu verstehen und Modelle nach verschiedenen Typen unterscheiden zu können.
