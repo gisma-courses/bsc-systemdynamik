@@ -2,7 +2,8 @@
 # wkhtmltopdf  --page-size A1 --footer-left [webpage]  --footer-font-size 8 --footer-line --header-left [title] --header-line --margin-top 30 --margin-left 25 --margin-right 25 --margin-bottom 15  https://geomoer.github.io/moer-bsc-systemdynamik/assignments/unit00-02_assignments.html  /home/creu/edu/courses/moer/moer-bsc-systemdynamik/docs/assets/pdf/unit00-02_assignments.pdf
 zip = TRUE
 wkhtml = TRUE
-local = FALSE
+local =FALSE
+slides = TRUE
 
 # get all related files in the docs directory
 files = list.files(dirname(rstudioapi::getActiveDocumentContext()$path), 
@@ -23,7 +24,7 @@ outpath_slides = paste0(getwd(),"/docs/assets/slides/")
 pan_arguments=' -f markdown-raw_tex -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs '
 
 # wkhtml calling argument
-wkhtml_arguments=" --footer-left [webpage]  --footer-font-size 8 --footer-line --header-left [title] --header-line --margin-top 30 --margin-left 25 --margin-right 25 --margin-bottom 15 "
+wkhtml_arguments=" --footer-left [webpage]  --footer-font-size 8 --footer-line --header-left [title] --header-line --margin-top 30 --margin-left 25 --margin-right 25 --margin-bottom 15 --load-error-handling ignore"
 
 
 
@@ -54,7 +55,9 @@ if (zip & (!wkhtml | wkhtml)){
   zipfile = paste0(outpath,repo,".zip")
   pdfpath= strsplit(outpath,"pdf")[[1]][1]
   zip::zip(zipfile, "pdf" , root = pdfpath,include_directories = FALSE,compression_level = 9)
-} else if (slides) {
+} 
+
+if (slides) {
   
   # zip the pdfs
     files2zip <- dir(outpath_slides, full.names = TRUE,recursive = TRUE)
