@@ -7,8 +7,8 @@ date: "2021/04/14 (updated: `r Sys.Date()`)"
 
 output:
   xaringan::moon_reader:
-    css: "robot"
-    lib_dir: libs
+    css: "default"
+    lib_dir: libs 
     nature:
       highlightStyle: github
       highlightLines: true
@@ -24,7 +24,9 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-### Warum modellieren wir?
+
+# Warum modellieren wir?
+
 
 
 *„Der menschliche Geist ist unfähig anders als in Modellen zu denken.“* <sup>1</sup> 
@@ -39,9 +41,9 @@ options(htmltools.dir.version = FALSE)
 ]
 ---
 
-### Modell was ist das …?
+# Modell was ist das …?
 
-Bitte Disktuieren Sie in den nächsten 10 Minuten in den Breakoutrooms die folgenden drei Fragen:
+Bitte Diskutieren Sie in den nächsten 10 Minuten in den Breakout-Räume die folgenden drei Fragen:
 
 * Welche Modelle kennen Sie? 
 * Warum sollte Modellierung interessant oder nützlich sein?
@@ -51,13 +53,14 @@ Bitte Disktuieren Sie in den nächsten 10 Minuten in den Breakoutrooms die folge
 Die Ergebnisse sammeln  wir auf [trello](https://trello.com/b/dd1CPBTC/systemdynamik)
 ]
 
+
 ---
 
-### Warum gibt es wissenschaftliche Modellierung?
+# Warum gibt es wissenschaftliche Modellierung?
 
 * Grundlagenforschung und angewandte Forschung benötigt Modelle zum 
 * Erkenntnisgewinn
-* Weltverstehen
+* Welt-Verstehen
 * vertieftes  Prozessverständnis
 * zur Hypothesenprüfung
 * Prognosen ...
@@ -67,20 +70,21 @@ Experimente am realen System sind häufig:
 * unbezahlbar
 * wenig sinnvoll weil irreversibel ...
 
+
 ---
 
-### Systeme
+# Systeme
 Anordnung von Komponenten und Beziehungen
 ---
 
-### Modelle
+# Modelle
 Abstraktionen von (real existierenden) Systemen
 
 Modelle sind *nicht* universell sondern für einen spezifischen Zweck
 
 ---
 
-### Simulationen
+# Simulationen
 
 Nachahmung des Verhaltens des realen Systems
 
@@ -92,17 +96,15 @@ Literatur:<sup>1,2,3</sup>
 [2] Monsef, Y.:  Modelling and Simulation of Complex Systems . Concepts , Methods and Tools , Society for Computer Simulation International . 1997
 [3] Günther Ossimitz: Online -Skriptum zur Vorlesung Einführung in die Systemwissenchaften Uni Graz [Ossimitzskript](http://wwwu.uni-klu.ac.at/~gossimit/lv/usw00/skr/start.htm)_  Zugriff: 13 .4 .2009
 ]
+
 ---
 
-### „Mache die Dinge so einfach wie möglich - aber nicht einfacher“ (nach Albert Einstein)
+# Mache die Dinge so einfach wie möglich, aber nicht einfacher<sup>1</sup>  
 
-.pull-left[
-<img src="slides_LE_1/Modellbildungppt0.png" width=200px />
-]
+.pull-left[<img src="slides_LE_1/Modellbildungppt0.png" width=200px />]
 
-.pull-right[
-Die Komplexität der realen Welt erzwingt Vereinfach also **Abstraktion**
-
+.pull-right[ Die Komplexität der realen Welt erzwingt Vereinfacht also **Abstraktion**
+    
 Durch eine **definierte Abstraktion** wird ein vereinfachtes **Modell** eines realen Systemausschnitts erzeugt
 
 Das dynamische System wird durch eine strukturierte Menge von Merkmalen, die in einer funktionalen Beziehung stehen, dargestellt
@@ -112,9 +114,10 @@ Das dynamische System wird durch eine strukturierte Menge von Merkmalen, die in 
 
 **Dieser Vorgang  wird als Modellbildung bezeichnet**
 
+.footnote[[1] in verschiedenen Varianten [zugeschrieben](https://quoteinvestigator.com/2011/05/13/einstein-simple/) u.a. Albert Einstein ]
 ---
 
-### Modelle sind immer beschränkt gültige Abbildungen eines subjektiv wahrgenommenen Systems
+# Modelle sind immer beschränkt gültige Abbildungen eines subjektiv wahrgenommenen Systems
 
  *"Die Australier führten das Kaninchen auf dem Kontinent ein und stellten fest, dass diese Kaninchen bald überall waren und die gesamte Nahrung fraßen, die für die einheimischen Arten zum Überleben notwendig war. Da die Kaninchen keinen natürlichen Feind hatten.*
 
@@ -127,24 +130,26 @@ Cellier, F.E. (1991),  Continuous System Modeling, Springer-Verlag, New York
 ]
 ---
 
-### Modellvalidität
+# Modellvalidität
 
 * Subjektivität der Abstraktionsleistung
+
 * Komplexität und Nicht-Linearität
-* Auch l ogisch und fachlich valide Modell e  sind nicht *wahr*
 
-**=> Modellgültigkeit  en werden über Sensitivitätsanalysen  bestimmt**
+* Auch logisch und fachlich valide Modelle  sind nicht *wahr*
+
+**=> Modellgültigkeiten werden über Sensitivitätsanalysen  bestimmt**
 
 
-*Ob ein Modell Wirklichkeitsausschnitte korrekt abbildet, läßt sich nicht beweisen
+* Ob ein Modell Wirklichkeitsausschnitte korrekt abbildet, lässt sich nicht beweisen
 
-*Jedoch  lässt sich die Gültigkeit  für  einen  definierten Modellzweck  nachweisen
+* Jedoch  lässt sich die Gültigkeit  für  einen  definierten Modellzweck  nachweisen
 
 ---
 
-### Der Begriff der Modellgültigkeit
+# Modellgültigkeiten
 
-<img src="slides_LE_1/Modellbildungppt1.png" width=950px />
+<img src="slides_LE_1/Modellbildungppt1.png" width=900px />
 
 .footnote[
 H. Bossel: Systeme, Dynamik, Simulation – Modellbildung, Analyse und Simulation komplexer Systeme. Books on Demand, Norderstedt/Germany, 2004
@@ -152,18 +157,18 @@ H. Bossel: Systeme, Dynamik, Simulation – Modellbildung, Analyse und Simulatio
 ---
 
 
-### Modelltypen - Deskriptive Modelle
+#  Deskriptive Modelle
 
 <img src="slides_LE_1/LN-ES-01-Systems-Models5.jpg" width=220px />
 <img src="slides_LE_1/LN-ES-01-Systems-Models4.jpg" width=250px />
 <img src="slides_LE_1/LN-ES-01-Systems-Models6.jpg" width=250px />
 
 .footnote[
-_[Environmental Informatics Marburg \[CC\-BY\-NC\-SA\] via flickr\.com](https://www.flickr.com/photos/environmentalinformatics-marburg)_ \, __adapted from__  _[Bossel \(2004\)](https://www.zotero.org/envin_umr/items/VA9SBS9Q)_
+[Environmental Informatics Marburg [CC-BY-NC-SA] via flickr.com](https://www.flickr.com/photos/environmentalinformatics-marburg) , nach [Bossel (2004)](https://www.zotero.org/envin_umr/items/VA9SBS9Q)
 ]
 ---
 
-### Model Typen Funktionale Modelle
+#  Funktionale Modelle
 
 <img src="slides_LE_1/LN-ES-01-Systems-Models7.jpg" width=220px />
 <img src="slides_LE_1/LN-ES-01-Systems-Models8.jpg" width=250px />
@@ -171,71 +176,77 @@ _[Environmental Informatics Marburg \[CC\-BY\-NC\-SA\] via flickr\.com](https://
 
 
 .footnote[
-_[Environmental Informatics Marburg \[CC\-BY\-NC\-SA\] via flickr\.com](https://www.flickr.com/photos/environmentalinformatics-marburg)_ \, __adapted from__  _[Bossel \(2004\)](https://www.zotero.org/envin_umr/items/VA9SBS9Q)_
+[Environmental Informatics Marburg [CC-BY-NC-SA] via flickr.com](https://www.flickr.com/photos/environmentalinformatics-marburg) , nach [Bossel (2004)](https://www.zotero.org/envin_umr/items/VA9SBS9Q) 
 ]
 ---
 
-### Vorraussetzung: Fach- und Methodenwissen
-.pull-left[
-<img src="slides_LE_1/Modellbildungppt3.png" width=400px /><sup>1</sup> 
+# Solides Fach- und Methodenwissen
+
+.pull-left-60[
+<a href="https://gis-ma.org/wp-content/uploads/Pika_ecolmod.jpg" title="Complex Model"><img src="https://gis-ma.org/wp-content/uploads/Pika_ecolmod.jpg" width="900" alt="Complex Model"></a><sup>1</sup> 
 ]
 
-.pull-right[
-<img src="slides_LE_1/Modellbildungppt2.png" width=375px />]<sup>2</sup>
-
+.pull-right-40[
+<img src="slides_LE_1/Modellbildungppt2.png" width=400px /><sup>2</sup> 
+]
 
 .footnote[
-[1] [Zwischenbericht](http://www.uni-saarland.de/fak5/physgeo/naehrstoffbilanz/Zwischenbericht_Internet.pdf)
-[2]  W. Mauser: Zwischenbericht GLOWA – Danube Integrative Techniken, Szenarien und Strategien zur Zukunft des Wassers im Einzugsgebiet der Oberen Donau. 2001
+[1] [Environmental Informatics Marburg [CC-BY-NC-SA] via gis-ma.org](https://gis-ma.org/wp-content/uploads/Pika_ecolmod.jpg) , nach [Retzer & Reudenbach (2005)](https://doi.org/10.1016/j.ecolmodel.2005.03.003) 
+[2] Mauser, W. et.al.: Zwischenbericht GLOWA – Danube Integrative Techniken, Szenarien und Strategien zur Zukunft des Wassers im Einzugsgebiet der Oberen Donau. 2001
 ]
 
 ---
-
-### Ganz Praktisch - Wie geht’s ?
+ 
+ 
+# Wie ist der Ablauf ?
 
 1. Das reale System wird beobachtet und analysiert. Definition der Problemstellung und des   _Modellzwecks_ 
+
 2. Im Rahmen der Systemabgrenzung wird das Konzept des Systems entwickelt als   _Wortmodell_   beschrieben.
+
 3. Auf Grundlage des Wortmodell werden die Wirkungsbeziehungen identifiziert und in einem   _Wirkungsgraphen_   abgebildet. Analyse der Dimensionen und Quantifizierung der Wirkungsbeziehungen.
+
 4. Je nach verwendeter Software Entwurf und Implementierung des Simulationsdiagramms (Flussdiagramm).
+
 5. Modelltest mit den gewählten Parametern.
 
 ---
+class: center 
+#  Problem erkennen und konzeptualisieren
 
-### Als Beispiel  - Problem errkennen
-
-<img src="slides_LE_1/Modellbildungppt4.png" width=500px />
-
----
-
-### Das Abstraktionshandwerk
-
-<img src="slides_LE_1/Modellbildungppt5.png" width=500px />
+<img src="slides_LE_1/Modellbildungppt4.png" width=700px />
 
 ---
 
-### Übersetzung in die technische Domäne
+#  Abstraktion 
 
-<img src="slides_LE_1/Modellbildungppt6.png" width=500px />
+<img src="slides_LE_1/Modellbildungppt5.png" width=700px />
 
 ---
 
-### Ein dynamisches „Primitivmodell“
+# Realisierung
+
+<img src="slides_LE_1/Modellbildungppt6.png" width=700px />
+
+---
+
+# Ein dynamisches „Primitivmodell“
 
 <img src="slides_LE_1/Modellbildungppt7.png" width=500px />
 
-<img src="slides_LE_1/Modellbildungppt8.png" width=500px />
+<img src="slides_LE_1/Modellbildungppt8.png" width=450px />
 
-<img src="slides_LE_1/Modellbildungppt9.png" width=484px />
+<img src="slides_LE_1/Modellbildungppt9.png" width=450px />
 
 ---
 
-### Zusammenfassung
+# Zusammenfassung
 
 Modellierung und Simulation sind Methoden, die der Analyse definierter Systeme dienen
 
 * Wichtigste Ziele
   * Theoriebildung (Verständnis)
-  * Hyothesenprüfung
+  * Hypothesenprüfung
   * Erkenntnis
   * Prognose  
   * Unterhaltung
@@ -248,11 +259,11 @@ Anforderungen an Modellbildungs- und Simulationsmethoden
 
 ---
 
-### Anhang
+# Anhang
 
 ---
 
-### Zurück zur Realität
+# Zurück zur Realität
 
 Realität - Wirklichkeit - Umweltwahrnehmung stellen in erster Linie ein kognitives Problem des Wahrnehmenden  dar
 
@@ -266,7 +277,7 @@ Es gibt zahlreiche erkenntnistheoretische Ansätze die  grundsätzlich in  zwei 
 ]
 ---
 
-### Erkenntnistheorethische Paradigmen
+# Erkenntnistheoretische Paradigmen
 
 ### Reduktionistisch
 
@@ -276,20 +287,20 @@ Damit Wirklichkeit interpretierbar und abbildbar wird, muss sie (zumindest teilw
 
 Eine Abgrenzbarkeit einzelner Weltausschnitte in Systeme der Welt ist nicht möglich, wünschenswert oder sinnvoll.  Interessierende Systeme müssen als ganzheitliche Phänomene betrachtet werden <sup>1</sup> 
 
-.footnote[ [1] Alexander Zick Das schamanische Weltbild als archaische Form des Konzepts "ökologische Ökonomie"  [Download](http://fbwirt.fh-hannover.de/veroeff/apapier/arb79.pdf)  Zugriff: 13.9.2007]
+.footnote[ [1] Zick, A., Das schamanische Weltbild als archaische Form des Konzepts "ökologische Ökonomie"  [Online](https://docplayer.org/24762861-Das-schamanische-weltbild-als-archaische-form-des-konzepts-oekologische-oekonomie.html)  Zugriff: 13.04.2021]
 ---
-### Methoden der Abstraktion
+# Methoden der Abstraktion
 
 „[...] Our only hope lies therefore in a true induction“ (<sup>1</sup> )
 
-*Induktiv* aufgrund von Messdaten zur Identifikation und Validierung Beobachtungen, Messungen, Annahmen, statistische Verfahren (Data Mining), Lernverfahren der KI...
-
 „Induction does simply not exist [...]“ <sup>2,3</sup>  
+
+*Induktiv* aufgrund von Messdaten zur Identifikation und Validierung Beobachtungen, Messungen, Annahmen, statistische Verfahren (Data Mining), Lernverfahren der KI...
 
 *Deduktiv* aufgrund von Kenntnissen und Einsicht über den Prozess (Gesetze , Prinzipien, Grundlagenwissen, Lehrmeinungen, Strukturwissen)
 
 .footnote[
-[1] Francis Bacon(1625): First Book of Aphorisms zit. n.[Bacon](http://www.fordham.edu/halsall/mod/bacon-aphor.html)  P. XIV. Zugriff 2.3.2007
+[1] Francis Bacon (1625): First Book of Aphorisms zit. n.[Bacon](http://www.fordham.edu/halsall/mod/bacon-aphor.html)  P. XIV. Zugriff 2.3.2007
 [2] Karl Popper: Logik der Forschung (1934)
 [3] Karl Popper: The Logic of Scientific Discovery (1959)
 ]
@@ -304,3 +315,4 @@ The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yih
 
 
 ---
+

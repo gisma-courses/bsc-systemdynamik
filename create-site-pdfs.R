@@ -33,7 +33,7 @@ if (local){
   url = paste0("http://127.0.0.1:4000/",repo,"/")
 } else {
   # create local url
-  url = paste0("https://geomoer.github.io/",repo,"/")
+  url = paste0("http://geomoer.github.io/",repo,"/")
 }
 
 if (!wkhtml){
