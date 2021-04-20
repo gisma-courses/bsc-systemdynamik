@@ -97,13 +97,13 @@ In einer durchschnittlichen Arbeitswoche sollten Sie 7-10 Stunden für den Kurs 
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
-| 1 | 13.04.  | Organisation und Einführung | Konzepte der Systemdynamik - Systemdynamik-Werkzeuge |
-| 2 | 20.04.  | Grundlagen Sitzung 1 | Aufbau eines Modells, Problemdefinition und Modellzweck|
-| 3 | 27.04.  | Grundlagen Sitzung 2 | Zustände und Flüße und Wirkungen als Repräsentation von Systemen|
-| 4 | 04.05.  | Grundlagen Sitzung 3   | Graphische Integration und Kopplungen  |
+| 1 | 13.04.  | Organisation und Einführung |  |
+| 2 | 20.04.  | Grundlagen Sitzung 1 | Konzepte der Systemdynamik - Systemdynamik-Werkzeuge |
+| 3 | 27.04.  | Grundlagen Sitzung 2 | Aufbau eines Modells, Problemdefinition und Modellzweck|
+| 4 | 04.05.  | Grundlagen Sitzung 3   | Zustände, Flüße und und Kopplungen als Repräsentation von Systemen  |
 | 5 | 11.05.  | Grundlagen Sitzung 4   | Generische Strukturen und Archetypen,   |
-| 6 | 18.05.  | Grundlagen Sitzung 5   | Einfache Systeme, Räuber-Beute |
-| 7 | 25.05.  | Grundlagen Sitzung 6   |  Epidimie |
+| 6 | 18.05.  | Grundlagen Sitzung 5   | Einfache Systeme, Epedimie |
+| 7 | 25.05.  | Grundlagen Sitzung 6   |  Räuber-Beute |
 | 8 | 01.06.  | Ausfalltermin Projektseminar   |   |
 | 9 | 08.06.  | Grundlagen Sitzung 8   |  Nachhaltige Ressourcennutzung  |
 | 10 | 15.06.  | Projektphase Sitzung 10   | Einführung in die Projektarbeit  |

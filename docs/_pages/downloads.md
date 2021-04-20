@@ -20,5 +20,3 @@ Die Webseite gilt als Refrenz die PDF Dateien können geringfügige inhaltliche 
 
 
 
-## Folien der Videos als PDF
-
