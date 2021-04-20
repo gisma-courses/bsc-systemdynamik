@@ -191,11 +191,13 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: ""
+      category: "Reader"
       tags: "Unit|03"
       layout: single
       sidebar:
         nav: "units" 
+      toc: true
+      toc_label: On this page        
   # unit04
   - scope:
       path: ""
