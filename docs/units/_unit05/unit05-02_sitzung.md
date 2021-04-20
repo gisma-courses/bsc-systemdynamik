@@ -4,18 +4,10 @@ toc: true
 toc_label: Inhalt
 ---
 
-
-
-
-
+Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badewanne und soll lediglich als erster praktischer Einstieg dienen.
 <!--more-->
 
-
-
-
 ## Was ist zu tun?
-
-Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badewanne und soll lediglich als erster praktischer Einstieg dienen.
 
 Nach dem Durcharbeiten dieses Arbeitsblatts wird Ihnen vielleicht bewusst, dass selbst einfache Systeme knifflig sein können. Machen Sie sich dieses Mal keine Sorgen, wenn Sie nicht alle Fragen beantworten konnten. In den folgenden Sitzungen werden Sie mit Methoden vertraut gemacht, die Ihnen helfen, das Verhalten von dynamischen Systemen zu verstehen und vorherzusagen.
 

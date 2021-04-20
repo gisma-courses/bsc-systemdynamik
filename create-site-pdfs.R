@@ -7,15 +7,17 @@ local = FALSE
 # get all related files in the docs directory
 files = list.files(dirname(rstudioapi::getActiveDocumentContext()$path), 
                    recursive = TRUE, full.names = TRUE)
-
 # strip the repo name
 repo = strsplit(strsplit(files[[1]],"courses/moer")[[1]][2],"/")[[1]][2]
 
 # strip the filename
 md_files = xfun::sans_ext(basename(files[grep("/units/", files)]))
+slides_files = list.files(paste0(dirname(rstudioapi::getActiveDocumentContext()$path),"/docs/assets/slides"),pattern = ".html",full.names = TRUE)
 
 # create outpath string
 outpath = paste0(getwd(),"/docs/assets/pdf/")
+outpath_slides = paste0(getwd(),"/docs/assets/slides/")
+
 
 # pandocs calling argument 
 pan_arguments=' -f markdown-raw_tex -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs '
@@ -46,10 +48,24 @@ if (!wkhtml){
   system(paste0("wkhtmltopdf ",wkhtml_arguments, " ",url,"index.html ",outpath, "index.pdf "),wait = TRUE)
 }
 
-if (zip){
+if (zip & (!wkhtml | wkhtml)){
   # zip the pdfs
   files2zip <- dir(outpath, full.names = TRUE)
   zipfile = paste0(outpath,repo,".zip")
   pdfpath= strsplit(outpath,"pdf")[[1]][1]
   zip::zip(zipfile, "pdf" , root = pdfpath,include_directories = FALSE,compression_level = 9)
+} else if (slides) {
+  
+  # zip the pdfs
+    files2zip <- dir(outpath_slides, full.names = TRUE,recursive = TRUE)
+    zipfile = paste0(outpath_slides,repo,"_slides.zip")
+   zip::zip(zipfile, "slides" , root = substring(outpath_slides,1,nchar(outpath_slides)-7),compression_level = 9)
+
+  
+  
+  
 }
+
+### end of pages
+
+
