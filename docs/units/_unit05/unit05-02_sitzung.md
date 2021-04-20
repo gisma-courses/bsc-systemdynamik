@@ -13,5 +13,5 @@ In dieser kurzen Einführung finden Begriffsklärungen und Reflexionseinheiten z
 ## Folien
 
 
-{% include media url="/assets/slides/test_slide.html" %}
-[Full-screen version of the map]({{ site.baseurl }}/assets/slides/test_slide.html){:target="_blank"}
+{% include media url="/assets/slides/slides_LE_1.html" %}
+[Full-screen version of the map]({{ site.baseurl }}/assets/slides/slides_LE_1.html){:target="_blank"}
