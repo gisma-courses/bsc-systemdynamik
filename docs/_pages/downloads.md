@@ -26,7 +26,7 @@ Unter nachfolgendem Link finden Sie alle Webseiten des Kurses als einzelne PDF D
 
 Unter nachfolgendem Link finden Sie alle Folien des Kurses als einzelne HTML Dateien in einenm Zip-Archiv. 
 
-{% include pdf-zip pdf-zip="moer-bsc-systemdynamik_slides.zip" %}
-
+{% include slides-zip slides-zip="moer-bsc-systemdynamik_slides.zip" %}
+{: .notice--success}
 
 
