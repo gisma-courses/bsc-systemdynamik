@@ -135,7 +135,7 @@ collections:
   unit06:
     output: true
     permalink: /:collection/:title.html    
-worksheets:
+Arbeitsblätter:
     output: true
     permalink: /:collection/:title.html
 
@@ -203,7 +203,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: ""
+      category: "Materialien"
       tags: "Unit|04"
       layout: single
       sidebar:
@@ -213,7 +213,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "Aufgaben"
+      category: "Arbeitsblätter"
       tags: "Unit|05"
       layout: single
       sidebar:
