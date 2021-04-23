@@ -7,7 +7,7 @@ toc_label: Inhalt
 
 
 Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badewanne und soll lediglich als erster praktischer Einstieg dienen.
-
+[Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
 
 <!--more-->
@@ -18,7 +18,7 @@ Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badew
 ## Was ist zu tun?
 
 
-Nach dem Durcharbeiten dieses Arbeitsblatts wird Ihnen vielleicht bewusst, dass selbst einfache Systeme knifflig sein können. Machen Sie sich dieses Mal keine Sorgen, wenn Sie nicht alle Fragen beantworten konnten. In den folgenden Sitzungen werden Sie mit Methoden vertraut gemacht, die Ihnen helfen, das Verhalten von dynamischen Systemen zu verstehen und vorherzusagen.
+Nach dem Durcharbeiten dieses Arbeitsblatts wird Ihnen vielleicht deutlicher werden, dass selbst einfache Systeme knifflig sein können. Machen Sie sich dieses Mal keine Sorgen, wenn Sie nicht alle Fragen beantworten konnten. In den folgenden Sitzungen werden Sie mit Methoden vertraut gemacht, die Ihnen helfen, das Verhalten von dynamischen Systemen zu verstehen und vorherzusagen.
 
 Eine Badewanne, ein Wasserhahn und ein Leck
 
@@ -73,3 +73,8 @@ Fast fertig. Die Fakten sind folgende:
 Wie viel Wasser wird in der Wanne sein, nachdem Gleichgewichtsbedingungen erreicht sind?
 
 
+Bitte beantworten Sie die Fragen indem Sie
+1. den Lösungsweg
+2. das Ergebnis
+in Ilias einreichen.
+{: .notice--success}

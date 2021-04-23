@@ -11,7 +11,7 @@ Unter Arbeitsblätter findenSie die üblicherweise wöchentlichen Abgaben zur St
 <!--more-->
 
 * Verpflichtend abzugebende Studienleistungen sind mit  [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success} bzw.
-* [Prüfungsleistung-Pflichtabgabe benotet](){: .btn .btn--warning} falls es eine Aufgebenstellung für die zu erbringende Prüfungsleistung ist mit  getagged.
+* [Prüfungsleistung-Pflichtabgabe-benotet](){: .btn .btn--warning} falls es eine Aufgebenstellung für die zu erbringende Prüfungsleistung ist mit  getagged.
 {: .notice--success}
 
 Pflichtabgaben werden auf Ilias im zugehörigen Abgabeordner eingereicht. 
