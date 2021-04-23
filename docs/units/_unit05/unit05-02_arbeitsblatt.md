@@ -1,5 +1,5 @@
 ---
-title: "Arbeitsblatt: Badewanne"
+title: "Arbeitsblatt 2: Badewanne"
 toc: true
 toc_label: Inhalt
 
