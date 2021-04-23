@@ -1,5 +1,5 @@
 ---
-title: "Arbeitsblatt: Einführung - Warum Systemdynamik?"
+title: "Arbeitsblatt 1: Einführung - Warum Systemdynamik?"
 toc: true
 toc_label: Inhalt
 ---
