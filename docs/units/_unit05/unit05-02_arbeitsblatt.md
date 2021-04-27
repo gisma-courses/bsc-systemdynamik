@@ -73,8 +73,5 @@ Fast fertig. Die Fakten sind folgende:
 Wie viel Wasser wird in der Wanne sein, nachdem Gleichgewichtsbedingungen erreicht sind?
 
 
-Bitte beantworten Sie die Fragen indem Sie
-1. den Lösungsweg
-2. das Ergebnis
-in Ilias einreichen.
+Bitte beantworten Sie die Fragen indem Sie (1) den Lösungsweg (Stichpunkte) und (2) das Ergebnis  gemäß der formalen Grundlagen verschriftlichen und in Ilias einreichen.
 {: .notice--success}
