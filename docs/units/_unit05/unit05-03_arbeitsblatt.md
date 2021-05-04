@@ -35,13 +35,16 @@ Der Effekt von einfachen Rückkopplungen erscheint einfach. Wir werden lernen wa
 * [Whelan J.](http://ocw.mit.edu/courses/sloan-school-of-management/15-988-system-dynamics-self-study-fall-1998-spring-1999/readings/positive.pdf)
 * [Nill](http://heike-nill.de/Corona/r-zahl_tutorial.pdf)
 
-## Aufbau: Konstanter Zufluss und volumenabhängiger Abfluss
+## Hilfesstellung: Konstanter Zufluss und volumenabhängiger Abfluss
 
 Nutzen Sie das Modell aus der vergangenen Übung. Zur Erinnerung:
 
 * Zu Beginn befindet sich kein Wasser in der Badewanne.
 * Ihr Wasserhahn ist mit einem konstanten Zufluss von 10 l/min geöffnet.
 * Die Badewanne hat ein Leck mit einem wasserstandsabhängigen Durchfluss von 0,5/min.
+
+
+## Aufgabenstellung
 
 Nutzen Sie dieses Modell als Grundlage für eine einfache Modellierung einer Virusausbreitung 
 {% include gallery id="panel1"  caption= "Illustration Aufgabe 3" %}

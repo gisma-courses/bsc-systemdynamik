@@ -7,6 +7,7 @@ toc_label: Inhalt
 
 
 Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badewanne und soll lediglich als erster praktischer Einstieg dienen.
+s
 [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
 
@@ -22,7 +23,9 @@ Nach dem Durcharbeiten dieses Arbeitsblatts wird Ihnen vielleicht deutlicher wer
 
 Eine Badewanne, ein Wasserhahn und ein Leck
 
-## Aufbau 01: Konstanter Zufluss
+## Aufgabenstellung
+
+### Aufbau 01: Konstanter Zufluss
 
 Betrachten wir ein ganz einfaches System aus Ihrem Alltag: eine Badewanne und einen Wasserhahn, mit dem Sie sie füllen können. Lassen Sie uns das ausprobieren.
 
@@ -35,7 +38,7 @@ Die Fakten sind folgende:
 
 Wie viel Wasser befindet sich nach den 10 Minuten in der Wanne?
 
-## Aufbau 02: Konstanter Zufluss und konstanter Abfluss
+### Aufbau 02: Konstanter Zufluss und konstanter Abfluss
 
 Jetzt fügen wir ein Leck in die Badewanne ein, also beeilen Sie sich, die nächste Frage zu lösen!
 
@@ -47,7 +50,7 @@ Die Fakten sind folgende:
 
 Wie viel Wasser befindet sich in der Wanne?
 
-## Aufbau 03: Variabler Zufluss und konstanter Abfluss
+### Aufbau 03: Variabler Zufluss und konstanter Abfluss
 
 Schalten wir noch einen Gang höher.
 
@@ -62,7 +65,7 @@ Die Fakten sind folgende:
 
 Wie hoch ist der eingestellte Zufluss, um den Wasserstand anschließend konstant zu halten?
 
-## Aufbau 04: Konstanter Zufluss und volumenabhängiger Abfluss
+### Aufbau 04: Konstanter Zufluss und volumenabhängiger Abfluss
 
 Fast fertig. Die Fakten sind folgende:
 

@@ -36,7 +36,7 @@ Für eine etwas realitätsnähere Simulation epedemischer Ausbreitungsdynamiken 
 
 
 
-## Entwickeln der Idee - Nutzung existierender Forschung
+## Hilfestellung:  Entwickeln der Idee - Nutzung existierender Forschung
 
 Das Arbeitsblatt 2 hat einen Wirkungsgraphen als Grundlage für Ihre Bearbeitung enthalten. Die Weiterentwicklung des Rückkopplungskonzepts zu einem epidemologischen Modell soll nicht ohne einen kurzen Blick auf die Geschichte bzw. den Stand der Dinge geleistet werden. Kurz es geht darum die Konzeption solcher Modell wahrzunehmen und in unserenSystemdynamik Ansatz einzubringen. Hhierzu sind die obigen Matrialien verlinkt. 
 
@@ -44,7 +44,7 @@ Schauen Sie sich das Video von Werner Maurer von der ZHAW an. Er beschreibt und 
 
 Maurer verwendet eine Reihe von Begriffen die uns bereits bekannt sind. Vertiefen Sie ihr Wissen indem Sie die verlinkten Kapitel von Bossel lesen. Insbesondere die Seiten 34-50 können für das Verständnis wie solche mathematischen oder systemdynamischen Systeme abgegrenzt werden sehr hilfreich sein.
 
-## Aufgabestellung
+## Aufgabenstellung
 
 Implementieren Sie ein Epedimiemodell auf der Grundlage des Arbeitsblattes 3 Rückkopplungen. Nutzen Sie die SIR Modell-Logik.
 
