@@ -1,5 +1,5 @@
 ---
-title: "Arbeitsblatt 4: Pandemie"
+title: "Arbeitsblatt 4: Epedimie"
 toc: true
 toc_label: Inhalt
 panel1:  
@@ -13,6 +13,7 @@ panel1:
 
 
 Diese Modellierungsübung erweitert das Konzept der Rückkopplungen um die notwendigen Systemerweiterungen für eine realitätsnahe Simulation einer epedemischen Virusausbreitung in einer definierten Gesellschaft.
+
 [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
 
@@ -29,13 +30,15 @@ Für eine etwas realitätsnähere Simulation epedemischer Ausbreitungsdynamiken 
 ## Was benötigen wir?
 
 * [Arbeitsblatt 3: Rückkopplungen]({{ site.baseurl }}{% link _unit05/unit05-03_arbeitsblatt.md %}) 
-* [Bossel, H. (2004), pp 34-50](https://ilias.uni-marburg.de/goto.php?target=file_2428005_download&client_id=UNIMR) Badewanne mit Leckage
-* [Bossel, H. (2004), pp 50-63 ](https://ilias.uni-marburg.de/goto.php?target=file_2428004_download&client_id=UNIMR)
-* [SIR Modelle Youtube Werner Maurer](https://www.youtube.com/watch?v=z0oYcPS6VVc)
+* [Bossel, H. (2004), pp 34-50](https://ilias.uni-marburg.de/goto.php?target=file_2428005_download&client_id=UNIMR) Textauszug zum Begriff System
+* [Bossel, H. (2004), pp 50-63 ](https://ilias.uni-marburg.de/goto.php?target=file_2428004_download&client_id=UNIMR) Textauszug zum Begriff Modell
+* [SIR Modelle Youtube Werner Maurer](https://www.youtube.com/watch?v=z0oYcPS6VVc) Vorlesungsvideo Wener Maurer ZHAW
 
 
 
 ## Entwickeln der Idee - Nutzung existierender Forschung
+
+Das Arbeitsblatt 2 hat einen Wirkungsgraphen als Grundlage für Ihre Bearbeitung enthalten. Die Weiterentwicklung des Rückkopplungskonzepts zu einem epidemologischen Modell soll nicht ohne einen kurzen Blick auf die Geschichte bzw. den Stand der Dinge geleistet werden. Kurz es geht darum die Konzeption solcher Modell wahrzunehmen und in unserenSystemdynamik Ansatz einzubringen. Hhierzu sind die obigen Matrialien verlinkt. 
 
 Schauen Sie sich das Video von Werner Maurer von der ZHAW an. Er beschreibt und erläutert ein sogenanntes [SIR](https://de.wikipedia.org/wiki/SIR-Modell) (susceptible-infected-removed) Modell und zeigt seine Implementierung in ein Systemdynamik Modell. Dieses Modell wurde bereits (siehe Wikipedia) bereits 1927 konzipiert und als mathematisches Modell genutzt. SIR Modelle können als Archetyp zur Beschreibung der Ausbreitung von Infekterkrankungen und Immunisierung aufgefasst werden. Sie sind u.a. die Grundlage für das Konzept der sogenannten "Herdenimmunität". 
 
