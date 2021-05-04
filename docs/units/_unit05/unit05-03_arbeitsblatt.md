@@ -12,7 +12,7 @@ panel1:
 ---
 
 
-Diese Modellierungsübung umfasst das Konzept der positiven und negativen Rückkopp
+Diese Modellierungsübung umfasst das Konzept der positiven und negativen Rückkopplungen
 [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
 
