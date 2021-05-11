@@ -1,5 +1,5 @@
 ---
-title: "Arbeitsblatt 4: Epedimie"
+title: "Arbeitsblatt 4: Epidemie"
 toc: true
 toc_label: Inhalt
 panel1:  
@@ -12,7 +12,7 @@ panel1:
 ---
 
 
-Diese Modellierungsübung erweitert das Konzept der Rückkopplungen um die notwendigen Systemerweiterungen für eine realitätsnahe Simulation einer epedemischen Virusausbreitung in einer definierten Gesellschaft.
+Diese Modellierungsübung erweitert das Konzept der Rückkopplungen um die notwendigen Systemerweiterungen für eine realitätsnahe Simulation einer epidemischen Virusausbreitung in einer definierten Gesellschaft.
 
 [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
@@ -25,7 +25,7 @@ Diese Modellierungsübung erweitert das Konzept der Rückkopplungen um die notwe
 ## Was ist zu tun?
 
 
-Für eine etwas realitätsnähere Simulation epedemischer Ausbreitungsdynamiken ist es notwenig das betrachtete System abzugrenzen und zu definieren. Konkret bedeutet das eine Identifikation der systemrelevanten Zustandsgrößen und die Formulierung der funktionalen Beziehungen zueinander. 
+Für eine etwas realitätsnähere Simulation epidemischer Ausbreitungsdynamiken ist es notwenig das betrachtete System abzugrenzen und zu definieren. Konkret bedeutet das eine Identifikation der systemrelevanten Zustandsgrößen und die Formulierung der funktionalen Beziehungen zueinander. 
 
 ## Was benötigen wir?
 
@@ -46,10 +46,10 @@ Maurer verwendet eine Reihe von Begriffen die uns bereits bekannt sind. Vertiefe
 
 ## Aufgabenstellung
 
-Implementieren Sie ein Epedimiemodell auf der Grundlage des Arbeitsblattes 3 Rückkopplungen. Nutzen Sie die SIR Modell-Logik.
+Implementieren Sie ein Epidemiemodell auf der Grundlage des Arbeitsblattes 3 Rückkopplungen. Nutzen Sie die SIR Modell-Logik.
 
 1. Erzeugen Sie zunächst mit einfachen selbstgewählten (aber sinnvollen) Daten zu dem Wikipedia Artikel vergleichbare Verläufe der Zustandsgrößen.
-2. Simulieren Sie den Verlauf der Corona-Epedimie in Hessen. Zur Initialisierung des Modells können Sie die Daten Hessens nutzen [Tabellen Bevölkerung](https://statistik.hessen.de/zahlen-fakten/bevoelkerung-gebiet-haushalte-familien/bevoelkerung/tabellen). Zu Covid19 Daten für Deutschland ist insbesondere [Gehrcke](https://github.com/jgehrcke/covid-19-germany-gae).
+2. Simulieren Sie den Verlauf der Corona-Epidemie in Hessen. Zur Initialisierung des Modells können Sie die Daten Hessens nutzen [Tabellen Bevölkerung](https://statistik.hessen.de/zahlen-fakten/bevoelkerung-gebiet-haushalte-familien/bevoelkerung/tabellen). Zu Covid19 Daten für Deutschland ist insbesondere [Gehrcke](https://github.com/jgehrcke/covid-19-germany-gae).
 
 Zeigen Sie jeweils eine Verlaufsgrafik für Aufgabe Eins und Aufgabe Zwei. Stellen Sie in einer Tabelle die verwendeten Parameter zusammen. Verlinken Sie die insight maker Modelle.
 

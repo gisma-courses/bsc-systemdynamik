@@ -7,7 +7,7 @@ toc_label: Inhalt
 
 
 Diese Modellierungsübung umfasst vier einfache Einstellungen rund um eine Badewanne und soll lediglich als erster praktischer Einstieg dienen.
-s
+
 [Studienleistung-Pflichtabgabe-unbenotet](){: .btn .btn--success}
 
 

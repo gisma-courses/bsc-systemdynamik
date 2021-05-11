@@ -14,7 +14,7 @@ In dieser Einführungssitzung beginnen wir mit einem Brainstorming, bei dem es u
  [Arbeitsblatt 2]({{ site.baseurl }}{% link _unit05/unit05-02_arbeitsblatt.md %}) Badewanne
 
 ## Was Sie aus dieser Lektion mitnehmen können
-Am Ende dieser Lektion sollten Sie in der Lage die Begriffe System, Modell und Simulationeinzuordnen. Die Bedeutung des Modellzwecks und von Systemgrenzen zu verstehen und Modelle nach verschiedenen Typen unterscheiden zu können.
+Am Ende dieser Lektion sollten Sie in der Lage die Begriffe System, Modell und Simulation einzuordnen. Die Bedeutung des Modellzwecks und von Systemgrenzen zu verstehen und Modelle nach verschiedenen Typen unte rscheiden zu können.
 
 
 
