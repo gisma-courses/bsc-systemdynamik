@@ -2,7 +2,7 @@
 # wkhtmltopdf  --page-size A1 --footer-left [webpage]  --footer-font-size 8 --footer-line --header-left [title] --header-line --margin-top 30 --margin-left 25 --margin-right 25 --margin-bottom 15  https://geomoer.github.io/moer-bsc-systemdynamik/assignments/unit00-02_assignments.html  /home/creu/edu/courses/moer/moer-bsc-systemdynamik/docs/assets/pdf/unit00-02_assignments.pdf
 zip = TRUE
 wkhtml = TRUE
-local =FALSE
+local =TRUE
 slides = TRUE
 
 # get all related files in the docs directory
