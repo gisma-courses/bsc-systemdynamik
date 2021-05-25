@@ -28,7 +28,7 @@ Zum Verständnis des grundlegenden Zusammenhangs sollte zunächst ein konkretes 
 * [Niederwild](https://www.wildtiermanagement.com/fileadmin/dateien/wildtiermanagement.de/pdfs/Literaturstudie_Praedation_NDS.pdf) 
 * [Unterrichtsmaterialien](https://www.swisseduc.ch/mathematik/analysis/populationsmodelle/docs/populationsmodelle_teil_2.pdf) 
 * [Wer reguliert wen](https://www.vetmeduni.ac.at/fileadmin/v/fiwi/Publikationen/Populaerwissenschaftliche/Arnold__W_2007_-_Gumpenstein.pdf)
-[Räuber Beute Modelle](https://insightmaker.com/insight/229061/Aufgabe-4)
+[Räuber Beute Modelle]https://insightmaker.com/insight/229699/Pred-Prey)
 
 
 
