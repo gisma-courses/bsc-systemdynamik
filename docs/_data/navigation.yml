@@ -4,9 +4,9 @@ main:
     url: /units.html
   - title: "FAQ"
     url: /unit00/unit00-04_faq.html
-  - title: "Zu ILIAS"
+  - title: "ILIAS"
     url: https://ilias.uni-marburg.de/ilias.php?baseClass=ilRepositoryGUI&amp;client_id=UNIMR
-  - title: "Zu gisma-courses"
+  - title: "gisma-courses"
     url: https://github.com/gisma-courses
   - title: "Seitenübersicht"
     url: /sitemap.html
@@ -19,8 +19,8 @@ docs:
     children:
       - title: "Kurseinheiten"
         url: /units.html
-      - title: "Zu ILIAS"
+      - title: "ILIAS"
         url: https://ilias.uni-marburg.de/ilias.php?baseClass=ilRepositoryGUI&amp;client_id=UNIMR
-      - title: "Zu gisma-courses"
+      - title: "gisma-courses"
         url: https://github.com/gisma-courses     
 
