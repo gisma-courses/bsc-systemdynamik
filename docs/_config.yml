@@ -38,12 +38,12 @@
 
 
 # Serve on GitHub
-url: https://geomoer.github.io/
-baseurl: "/moer-bsc-systemdynamik/"
+url: https://gisma-courses.github.io/
+baseurl: "/bsc-systemdynamik/"
 
 ##### Title ###################################################################
-title: Environmental Informatics Research Group
-name: &name "Environmental Informatics Research Group" # &name is a YAML anchor which can be *referenced later
+title: GISMA course resources
+name: &name "GISMA course resources" # &name is a YAML anchor which can be *referenced later
 email: reudenbach@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
@@ -65,7 +65,6 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
   facebook         : "https://www.facebook.com/GeographieMarburg/"
   foursquare       :
   github           : "GeoMOER"
@@ -96,7 +95,7 @@ locale                   : "de-DE"
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
+remote_theme: "https://github.com/gisma-courses/moer-jekyll-theme"
 
 minimal_mistakes_skin    : "default" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 

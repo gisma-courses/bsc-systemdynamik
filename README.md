@@ -1,7 +1,7 @@
-![Course Header](https://github.com/GeoMOER/moer-bsc-systemdynamik/blob/master/docs/assets/images/sysdyn_title.png "Image source: C.Reudenbach")
+![Course Header](https://github.com/gisma-courses/bsc-systemdynamik/blob/master/docs/assets/images/sysdyn_title.png "Image source: C.Reudenbach")
 
 
-Der Kursinhalt wird auf Github entwickelt und [gehostet](https://geomoer.github.io/moer-bsc-systemdynamik/).
+Der Kursinhalt wird auf Github entwickelt und [gehostet](https://gisma-courses.github.io/bsc-systemdynamik/).
 
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Forschungsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.
 

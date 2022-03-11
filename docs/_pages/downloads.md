@@ -18,7 +18,7 @@ Die Webseite gilt als Refrenz die PDF Dateien können geringfügige inhaltliche 
 
 Unter nachfolgendem Link finden Sie alle Webseiten des Kurses als einzelne PDF Dateien in einenm Zip-Archiv. 
 
-{% include pdf-zip pdf-zip="moer-bsc-systemdynamik.zip" %}
+{% include pdf-zip pdf-zip="bsc-systemdynamik.zip" %}
 {: .notice--success}
 
 
@@ -26,7 +26,7 @@ Unter nachfolgendem Link finden Sie alle Webseiten des Kurses als einzelne PDF D
 
 Unter nachfolgendem Link finden Sie alle Folien des Kurses als einzelne HTML Dateien in einenm Zip-Archiv. 
 
-{% include slides-zip slides-zip="moer-bsc-systemdynamik_slides.zip" %}
+{% include slides-zip slides-zip="bsc-systemdynamik_slides.zip" %}
 {: .notice--success}
 
 
