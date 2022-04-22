@@ -2,6 +2,10 @@
 title: "Arbeitsblatt 6: Räuber-Beute -reloaded "
 toc: true
 toc_label: Inhalt
+header:
+  image: "/assets/images/splash_01.jpg"
+  image_description: "Geoinformatik "
+  caption: "Geoinformatik. CC0 AG UI"
 panel1:  
   - url: /assets/images/unit05/aufgabe3.png
     image_path: /assets/images/unit05/aufgabe3.png

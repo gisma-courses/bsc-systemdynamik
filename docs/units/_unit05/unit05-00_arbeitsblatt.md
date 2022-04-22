@@ -2,9 +2,9 @@
 title: ""
 
 header:
-  image: "/assets/images/envi_met_title.png"
-  image_description: "modeling domain"
-  caption: "gisma / CC0"
+  image: "/assets/images/splash_01.jpg"
+  image_description: "Geoinformatik "
+  caption: "Geoinformatik. CC0 AG UI"
 ---
 
 Unter Arbeitsblätter findenSie die üblicherweise wöchentlichen Abgaben zur Studienleistung bzw. die Aufgabenstellung zur Prüfungsleistung..
