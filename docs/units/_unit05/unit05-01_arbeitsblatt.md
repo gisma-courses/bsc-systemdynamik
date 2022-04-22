@@ -2,6 +2,10 @@
 title: "Arbeitsblatt 1: Einführung - Warum Systemdynamik?"
 toc: true
 toc_label: Inhalt
+header:
+  image: "/assets/images/splash_01.jpg"
+  image_description: "Geoinformatik "
+  caption: "Geoinformatik. CC0 AG UI"
 ---
 
 

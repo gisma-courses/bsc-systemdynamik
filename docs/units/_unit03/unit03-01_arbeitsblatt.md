@@ -2,7 +2,10 @@
 title: " Input Modellierung"
 toc: true
 toc_label: Inhalt
-
+header:
+  image: "/assets/images/splash_01.jpg"
+  image_description: "Geoinformatik "
+  caption: "Geoinformatik. CC0 AG UI"
 ---
 
 In dieser Einführungssitzung beginnen wir mit einem Brainstorming, bei dem es um Modelle geht. Danach definieren wir die drei Grundbegriffe: System, Modell, Simulation und beenden die heutige Lektion mit einem Modellbesipiel einer Badewanne.
