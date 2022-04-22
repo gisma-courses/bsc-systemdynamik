@@ -42,8 +42,8 @@ url: https://gisma-courses.github.io/
 baseurl: "/bsc-systemdynamik/"
 
 ##### Title ###################################################################
-title: GISMA course resources
-name: &name "GISMA course resources" # &name is a YAML anchor which can be *referenced later
+title: gisma spatial science ressources
+name: &name "gisma spatial science ressources" # &name is a YAML anchor which can be *referenced later
 email: reudenbach@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
@@ -67,7 +67,7 @@ author:
   dribbble         :
   facebook         : "https://www.facebook.com/GeographieMarburg/"
   foursquare       :
-  github           : "GeoMOER"
+  github           : "gisma-courses"
   gitlab           :
   google_plus      :
   keybase          :
@@ -89,16 +89,12 @@ author:
 ##### Site configuration ######################################################
 title_separator: "|"
 excerpt_separator: <!--more-->
-locale                   : "de-DE"
-
 
 # Build settings
 markdown: kramdown
 # theme: minima
 remote_theme: "https://github.com/gisma-courses/moer-jekyll-theme"
-
-minimal_mistakes_skin    : "default" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
 # Default Settings
